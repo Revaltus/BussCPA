@@ -120,7 +120,7 @@ A: Yes. Agriculture clients face different payroll structures, seasonal cash flo
 A: Onboarding starts with connecting your bank, payroll, and prior records to an encrypted platform. From there, documents upload through a secure portal, and you get real-time dashboard access plus scheduled reviews with your Buss CPA team.
 
 <!-- block: cta-banner | variant: image-bg | image: hartford-sd-business-consultation.jpg | alt: "Business owner and accountant shaking hands after a consultation meeting" | query: "business owner accountant handshake meeting" -->
-## Why Sioux Falls and Hartford SD businesses choose our outsourced accounting team
+## Why businesses choose our outsourced accounting team
 
 Business owners across the greater Sioux Falls area don't need another vendor. They need an accounting department that answers when they call, prices work in a fixed monthly fee instead of surprise invoices, and gives them real-time access to the numbers that run their business. That's what Buss CPA is built to do, working from our offices in Hartford and Sioux Falls, for farms and ranches, construction companies, law firms, engineering practices, and family offices and trusts throughout South Dakota.
 

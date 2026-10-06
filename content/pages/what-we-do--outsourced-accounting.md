@@ -48,7 +48,7 @@ icon: Users
 
 Scheduled payroll is processed on time after review of classifications, overtime, job costing codes, and any certified payroll or tax exemptions for the period. Your business remains compliant with Buss CPA handling federal payroll tax deposits, new-hire reporting, multi-state withholding and unemployment tax, year-end W-2 and 1099 preparation and filing, and ongoing monitoring of federal payroll tax rule changes. 
 
-### Tax
+### Business Tax
 icon: Receipt
 
 Tax filings built on how businesses operate to ensure compliance. Year-round visibility into financial data to provide a strategy for proactive tax planning that maximizes tax savings and minimizes burden. No more money left on the table, and no more surprise tax bills.

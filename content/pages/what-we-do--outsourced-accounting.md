@@ -34,14 +34,16 @@ Whether you run a farm or ranch, a construction company, a law firm, an engineer
 <!-- block: checklist-section | variant: with-image | image: financial-dashboard-review.jpg | alt: "Business owner reviewing an online financial dashboard on a tablet" | query: "business owner tablet financial dashboard" -->
 ## What is included in outsourced accounting
 
-Most accounting services in the Sioux Falls and Hartford area stop at data entry. Buss CPA's outsourced accounting program goes further, combining day-to-day accounting with the reporting and advisory that construction companies, farms, law firms, engineering practices, and family offices actually need to make decisions.
+Most accounting services in the Sioux Falls and Hartford area stop at data entry. Buss CPA's outsourced accounting system goes further, combining day-to-day accounting and payroll with the reporting and advisory that construction companies, farms, law firms, engineering practices, and family offices need to make decisions.
 
-- Monthly accounting and bank and credit card reconciliations
-- Payroll processing, tax filings, and employee support
-- Accounts payable and receivable management
-- Financial statement preparation, delivered on a set schedule
-- CFO-level advisory, including cash flow forecasting and budget review
-- Secure digital document exchange, so nothing sits in an inbox
+**Accounting**\
+Financial statements close on time. Bank accounts reconcile every month. Reports are ready the moment a lender, bonding company, or accountant asks for them. Audit-ready isn't a special project we run once a year. It's the standard we hold every month, so you always know where the business stands.
+
+**Payroll**\
+Scheduled payroll is processed on time after review of classifications, overtime, job costing codes, and any certified payroll or tax exemptions for the period. Your business remains compliant with Buss CPA handling federal payroll tax deposits, new-hire reporting, multi-state withholding and unemployment tax, year-end W-2 and 1099 preparation and filing, and ongoing monitoring of federal payroll tax rule changes. 
+
+**Tax**\
+Tax filings built on how businesses operate to ensure compliance. Year-round visibility into financial data to provide a strategy for proactive tax planning that maximizes tax savings and minimizes burden. No more money left on the table, and no more surprise tax bills.
 
 Each client works from one platform for uploading documents and reviewing statements, so financial data stays current instead of arriving weeks after the month closes. That real-time visibility is the difference between reacting to last quarter's numbers and planning around this quarter's.
 

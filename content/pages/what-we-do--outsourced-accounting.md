@@ -53,24 +53,20 @@ icon: Receipt
 
 Tax filings built on how businesses operate to ensure compliance. Year-round visibility into financial data to provide a strategy for proactive tax planning that maximizes tax savings and minimizes burden. No more money left on the table, and no more surprise tax bills.
 
-<!-- block: content-split | variant: image-left | image: construction-site-accounting-review.jpg | alt: "Construction contractor reviewing project costs on a job site" | query: "construction contractor reviewing paperwork job site" -->
-## Industry-specific accounting for construction and contractors
-
-Construction accounting isn't general bookkeeping with a different label. Job costing has to tie back to specific projects, progress billing has to match contract terms, and retainage has to be tracked separately from operating cash. Miss any of those and a profitable job can look like a loss on paper.
-
-Buss CPA works with contractors and construction companies from our offices in Hartford and Sioux Falls, serving the broader South Dakota region. Reports break down cost by job, not just by category, so a business owner can see which projects are actually making money before the final invoice goes out. For a deeper look at how this applies to your trade, visit our [construction accounting page](/industries/construction).
-
-<!-- block: content-split | variant: image-right | image: farm-operation-financial-review.jpg | alt: "Farmer reviewing financial documents at a kitchen table on a farm" | query: "farmer reviewing financial paperwork farm" -->
-## Specialized bookkeeping for agriculture, farming, and ranching
-
-Farm and ranch operations across South Dakota run on a different calendar than most businesses. Payroll includes seasonal labor during planting, calving, and harvest, along with family labor arrangements that carry their own tax treatment. Cash flow swings hard between growing seasons, and tax planning has to account for commodity pricing, Schedule F reporting, crop insurance proceeds, government payments, livestock deductions, and equipment depreciation in ways a generic bookkeeper often misses.
-
-Buss CPA serves farm and ranch clients from its Hartford and Sioux Falls offices, structuring ag accounting around seasonality instead of forcing operations into a standard monthly template. That means payroll set up correctly for ag labor rules, cash flow reports timed to your production cycle, and tax positioning that reflects how farm and ranch income actually arrives. Read more on our [agriculture accounting page](/industries/agriculture).
-
 <!-- block: feature-grid | variant: 3-col -->
-## Accounting support for attorneys, engineers, and family offices and trusts
+## Accounting support for construction, agriculture, attorneys, engineers, and family offices and trusts
 
-Law firms, engineering firms, and family offices and trusts across the greater Sioux Falls and Hartford region carry compliance obligations that a standard bookkeeping package isn't built to handle. Trust accounting rules, project-d billing, and client fund segregation all require an accountant who already understands the framework, not one learning it on your file.
+Construction companies, farms and ranches, law firms, engineering firms, and family offices and trusts across the greater Sioux Falls and Hartford region carry obligations that a standard bookkeeping package isn't built to handle. Job costing, seasonal payroll, trust accounting rules, project-d billing, and client fund segregation all require an accountant who already understands the framework, not one learning it on your file.
+
+### Construction and contractors
+icon: HardHat
+
+Job costing has to tie back to specific projects, progress billing has to match contract terms, and retainage has to be tracked separately from operating cash. Our reports break down cost by job, not just by category, so you can see which projects are making money before the final invoice goes out. See our [construction accounting page](/industries/construction).
+
+### Agriculture, farming, and ranching
+icon: Wheat
+
+Farm and ranch accounting follows the production calendar: seasonal labor payroll during planting, calving, and harvest, Schedule F reporting for crop insurance proceeds and government payments, livestock and ranch land deductions, and equipment depreciation strategy. Cash flow reports are timed to your production cycle. Read more on our [agriculture accounting page](/industries/agriculture).
 
 ### Attorneys and law firms
 icon: Scale

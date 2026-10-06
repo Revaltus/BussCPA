@@ -6,39 +6,11 @@
       "children": [
         {
           "label": "Outsourced accounting services for your business",
-          "url": "/what-we-do/outsourced-accounting",
-          "children": [
-            {
-              "label": "Accounting that keeps your books audit ready",
-              "url": "/what-we-do/outsourced-accounting/accounting"
-            },
-            {
-              "label": "Tax preparation and planning for businesses",
-              "url": "/what-we-do/outsourced-accounting/business-tax"
-            },
-            {
-              "label": "Payroll processing and compliance support",
-              "url": "/what-we-do/outsourced-accounting/payroll"
-            }
-          ]
+          "url": "/what-we-do/outsourced-accounting"
         },
         {
           "label": "Advisory services to guide your financial decisions",
-          "url": "/what-we-do/advisory",
-          "children": [
-            {
-              "label": "Entity Type Analysis",
-              "url": "/what-we-do/advisory/entity-type-analysis"
-            },
-            {
-              "label": "Accounting System Setup",
-              "url": "/what-we-do/advisory/accounting-system-setup"
-            },
-            {
-              "label": "Retirement Plan Analysis",
-              "url": "/what-we-do/advisory/retirement-plan-analysis"
-            }
-          ]
+          "url": "/what-we-do/advisory"
         },
         {
           "label": "Personal income tax help for complex finances",

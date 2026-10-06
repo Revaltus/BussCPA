@@ -27,6 +27,17 @@ Most financial advisors manage investments. They don't touch your books, don't f
 
 That means recommendations come from actual numbers, not a quarterly snapshot. When we talk about pricing a job, timing a purchase, or restructuring an entity, we're looking at the same data you are, current as of this morning. For business owners across the greater Sioux Falls area and the surrounding South Dakota region, that's the difference between advisory that reacts and advisory that plans ahead. Buss CPA serves clients from offices in both Hartford and Sioux Falls, so whether you're running a farm outside Brandon or a law practice in downtown Sioux Falls, you get the same real-time numbers and the same direct access to your advisor.
 
+## What's included in advisory services
+
+**Accounting system setup**\
+Our team advises businesses on how to get their QuickBooks file structured correctly from the first login, so every transaction lands where it belongs and every report tells you something useful.
+
+**Entity type analysis**\
+We model your actual numbers under each viable entity type, sole proprietorship, partnership, LLC, S-Corp, and C-Corp, showing the projected federal and state tax liability for each scenario to advise you on the best structure for your business. 
+
+**Retirement plan analysis**\
+Our advisors walk through your entity type, income, employee count, and cash flow to identify the plan structure that best fits your business. No more money lost on missed deductions or mismatched contribution limits.
+
 <!-- block: content-split | variant: image-right | image: construction-agriculture-advisory.jpg | alt: "Contractor and farmer reviewing financial reports with an advisor" | query: "contractor farmer reviewing financial documents" -->
 ## Industry-specific advisory for construction and agriculture
 

@@ -34,7 +34,7 @@ Whether you run a farm or ranch, a construction company, a law firm, an engineer
 <!-- block: checklist-section | variant: with-image | image: financial-dashboard-review.jpg | alt: "Business owner reviewing an online financial dashboard on a tablet" | query: "business owner tablet financial dashboard" -->
 ## What is included in outsourced accounting
 
-Most accounting services in the Sioux Falls and Hartford area stop at data entry. Buss CPA's outsourced accounting program goes further, combining day-to-day accounting with the reporting and advisory that construction companies, farms, law firms, engineering practices, and family offices actually need to make decisions.
+Most accounting services in the Sioux Falls and Hartford area stop at data entry. Buss CPA's outsourced accounting system goes further, combining day-to-day accounting with the reporting and advisory that construction companies, farms, law firms, engineering practices, and family offices actually need to make decisions.
 
 - Monthly accounting and bank and credit card reconciliations
 - Payroll processing, tax filings, and employee support

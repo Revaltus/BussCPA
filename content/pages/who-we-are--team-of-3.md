@@ -1,11 +1,11 @@
 ---
 title: "Team of 3 | Buss CPA"
-url: "/team-of-3"
+url: "/who-we-are/team-of-3"
 meta_title: "Outsourced Accounting Team of 3 | Buss CPA Hartford SD"
 meta_description: "Get CFO, controller, and staff accountant expertise for one fixed monthly fee with Buss CPA's outsourced accounting team of 3, serving Hartford, SD businesses."
 target_keyword: "outsourced accounting team of 3"
 secondary_keywords: ["CFO controller accountant model","outsourced CFO controller bookkeeper","fixed fee accounting team","Hartford SD accounting firm"]
-canonical_url: "https://busscpa.us/team-of-3"
+canonical_url: "https://busscpa.us/who-we-are/team-of-3"
 schema_markup: "Service"
 cta_text: "Schedule a consultation"
 cta_url: "/contact"

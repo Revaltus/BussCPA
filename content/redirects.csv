@@ -23,3 +23,5 @@ old_url,new_url,status_code,reason
 /services/advisory,/what-we-do/advisory,301,Relocated via AI
 /services/personal-income-tax,/what-we-do/personal-income-tax,301,Relocated via AI
 /services,/what-we-do,301,Relocated via AI
+/team-of-3,/who-we-are/team-of-3,301,Nested via nav editor
+/pricing,/plans,301,Nested via nav editor

@@ -82,7 +82,7 @@
     {
       "id": "silver",
       "name": "Silver",
-      "description": "Adds Weekly-level Support",
+      "description": "Adds weekly-level support",
       "monthlyPrice": 0,
       "annualPrice": 0,
       "isMostPopular": true,
@@ -121,7 +121,7 @@
     {
       "id": "gold",
       "name": "Gold",
-      "description": "Strategic finance leadership on demand.",
+      "description": "Strategic financial leadership",
       "monthlyPrice": 0,
       "annualPrice": 0,
       "isMostPopular": false,

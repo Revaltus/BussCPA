@@ -5,15 +5,15 @@
       "url": "/what-we-do",
       "children": [
         {
-          "label": "Outsourced accounting services for your business",
+          "label": "Outsourced Accounting",
           "url": "/what-we-do/outsourced-accounting"
         },
         {
-          "label": "Advisory services to guide your financial decisions",
+          "label": "Advisory & Consulting",
           "url": "/what-we-do/advisory"
         },
         {
-          "label": "Personal income tax help for complex finances",
+          "label": "Personal Income Tax",
           "url": "/what-we-do/personal-income-tax"
         }
       ]
@@ -23,23 +23,23 @@
       "url": "/industries",
       "children": [
         {
-          "label": "Accounting built for contractors and builders",
+          "label": "Construction",
           "url": "/industries/construction"
         },
         {
-          "label": "Accounting expertise for growing ag operations",
+          "label": "Agriculture",
           "url": "/industries/agriculture"
         },
         {
-          "label": "Accounting and tax services for engineers",
+          "label": "Engineers",
           "url": "/industries/engineers"
         },
         {
-          "label": "Accounting and tax services for attorneys and law firms",
+          "label": "Attorneys",
           "url": "/industries/attorneys"
         },
         {
-          "label": "Accounting and tax services for family offices and trursts",
+          "label": "Family Offices & Trusts",
           "url": "/industries/family-offices-trusts"
         }
       ]

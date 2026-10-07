@@ -72,41 +72,6 @@
           "id": "business-tax-return",
           "label": "Business tax return",
           "included": true
-        },
-        {
-          "id": "weekly-accounting",
-          "label": "Weekly accounting",
-          "included": false
-        },
-        {
-          "id": "fall-tax-planning",
-          "label": "Fall tax planning",
-          "included": false
-        },
-        {
-          "id": "fall-financial-roadmap",
-          "label": "Fall financial roadmap",
-          "included": false
-        },
-        {
-          "id": "review-of-basic-kpi-s",
-          "label": "Review of basic KPI's",
-          "included": false
-        },
-        {
-          "id": "quarterly-financial-review",
-          "label": "Quarterly financial review",
-          "included": false
-        },
-        {
-          "id": "in-depth-kpi-calculations",
-          "label": "In-depth KPI calculations",
-          "included": false
-        },
-        {
-          "id": "ad-hoc-client-meetings",
-          "label": "Ad hoc client meetings",
-          "included": false
         }
       ],
       "cta": {
@@ -196,21 +161,6 @@
           "id": "review-of-basic-kpi-s",
           "label": "Review of basic KPI's",
           "included": true
-        },
-        {
-          "id": "quarterly-financial-review",
-          "label": "Quarterly financial review",
-          "included": false
-        },
-        {
-          "id": "in-depth-kpi-calculations",
-          "label": "In-depth KPI calculations",
-          "included": false
-        },
-        {
-          "id": "review-of-basic-kpi-s-18",
-          "label": "Review of basic KPI's",
-          "included": false
         }
       ],
       "cta": {

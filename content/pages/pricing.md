@@ -1,6 +1,6 @@
 ---
 title: Pricing | BussCPA
-url: /plans
+url: /pricing
 meta_title: Pricing & Plans
 meta_description: Explore BussCPA's plans and pricing. Compare tiers, see what each includes, and choose the level of support that fits your business.
 target_keyword: pricing

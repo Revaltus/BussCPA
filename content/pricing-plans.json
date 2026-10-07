@@ -88,58 +88,8 @@
       "isMostPopular": true,
       "features": [
         {
-          "id": "team-of-3",
-          "label": "Team of 3",
-          "included": true
-        },
-        {
-          "id": "assigned-client-manager",
-          "label": "Assigned client manager",
-          "included": true
-        },
-        {
-          "id": "monthly-accounting",
-          "label": "Monthly accounting",
-          "included": true
-        },
-        {
-          "id": "tax-planning",
-          "label": "Tax planning",
-          "included": true
-        },
-        {
-          "id": "monthly-management-reports",
-          "label": "Monthly management reports",
-          "included": true
-        },
-        {
-          "id": "strategic-recommendations",
-          "label": "Strategic recommendations",
-          "included": true
-        },
-        {
-          "id": "financial-assessment",
-          "label": "Financial assessment",
-          "included": true
-        },
-        {
-          "id": "business-health-evaluation",
-          "label": "Business health evaluation",
-          "included": true
-        },
-        {
-          "id": "1099-forms-preparation",
-          "label": "1099 Forms preparation",
-          "included": true
-        },
-        {
-          "id": "heavy-highway-use-2290",
-          "label": "Heavy Highway Use (2290)",
-          "included": true
-        },
-        {
-          "id": "business-tax-return",
-          "label": "Business tax return",
+          "id": "everything-in-bronze-plus",
+          "label": "Everything in Bronze plus:",
           "included": true
         },
         {
@@ -177,78 +127,8 @@
       "isMostPopular": false,
       "features": [
         {
-          "id": "team-of-3",
-          "label": "Team of 3",
-          "included": true
-        },
-        {
-          "id": "assigned-client-manager",
-          "label": "Assigned client manager",
-          "included": true
-        },
-        {
-          "id": "monthly-accounting",
-          "label": "Monthly accounting",
-          "included": true
-        },
-        {
-          "id": "tax-planning",
-          "label": "Tax planning",
-          "included": true
-        },
-        {
-          "id": "monthly-management-reports",
-          "label": "Monthly management reports",
-          "included": true
-        },
-        {
-          "id": "strategic-recommendations",
-          "label": "Strategic recommendations",
-          "included": true
-        },
-        {
-          "id": "financial-assessment",
-          "label": "Financial assessment",
-          "included": true
-        },
-        {
-          "id": "business-health-evaluation",
-          "label": "Business health evaluation",
-          "included": true
-        },
-        {
-          "id": "1099-forms-preparation",
-          "label": "1099 Forms preparation",
-          "included": true
-        },
-        {
-          "id": "heavy-highway-use-2290",
-          "label": "Heavy Highway Use (2290)",
-          "included": true
-        },
-        {
-          "id": "business-tax-return",
-          "label": "Business tax return",
-          "included": true
-        },
-        {
-          "id": "weekly-accounting",
-          "label": "Weekly accounting",
-          "included": true
-        },
-        {
-          "id": "fall-tax-planning",
-          "label": "Fall tax planning",
-          "included": true
-        },
-        {
-          "id": "fall-financial-roadmap",
-          "label": "Fall financial roadmap",
-          "included": true
-        },
-        {
-          "id": "review-of-basic-kpi-s",
-          "label": "Review of basic KPI's",
+          "id": "everything-in-silver-plus",
+          "label": "Everything in Silver plus:",
           "included": true
         },
         {

@@ -3,16 +3,23 @@
 // The Revaltus platform rewrites it when the site fonts change (Design Studio / Theme Studio).
 
 import type { CSSProperties } from 'react'
-import { Plus_Jakarta_Sans, Fraunces, Geist_Mono } from 'next/font/google'
+import { Manrope, Inter, Fraunces, Geist_Mono } from 'next/font/google'
 
-const font0 = Plus_Jakarta_Sans({
+const font0 = Manrope({
   subsets: ['latin'],
   weight: ['400', '500', '700'],
   variable: '--font-heading-loaded',
   display: 'swap',
 })
 
-const font1 = Fraunces({
+const font1 = Inter({
+  subsets: ['latin'],
+  weight: ['400', '500', '700'],
+  variable: '--font-body-loaded',
+  display: 'swap',
+})
+
+const font2 = Fraunces({
   subsets: ['latin'],
   weight: ['400', '500'],
   style: ['normal', 'italic'],
@@ -20,7 +27,7 @@ const font1 = Fraunces({
   display: 'swap',
 })
 
-const font2 = Geist_Mono({
+const font3 = Geist_Mono({
   subsets: ['latin'],
   weight: ['400', '500'],
   variable: '--font-mono-loaded',
@@ -28,9 +35,7 @@ const font2 = Geist_Mono({
 })
 
 /** next/font variable classes for <html className>. */
-export const fontVariables = `${font0.variable} ${font1.variable} ${font2.variable}`
+export const fontVariables = `${font0.variable} ${font1.variable} ${font2.variable} ${font3.variable}`
 
 /** Roles sharing a family point at the loaded variable (applied as <html style>). */
-export const fontAliases: CSSProperties = {
-  '--font-body-loaded': 'var(--font-heading-loaded)',
-} as CSSProperties
+export const fontAliases: CSSProperties = {}

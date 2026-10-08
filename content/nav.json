@@ -19,7 +19,7 @@
       ]
     },
     {
-      "label": "Industry Expertise",
+      "label": "Industries",
       "url": "/industries",
       "children": [
         {
@@ -67,15 +67,15 @@
       "url": "/resources-new",
       "children": [
         {
-          "label": "Insights Gallery",
+          "label": "Insights",
           "url": "/resources-new/insights-gallery"
         },
         {
-          "label": "Tax resources and forms in one place",
+          "label": "Forms, Documents & Links",
           "url": "/resources-new/forms-documents-links"
         },
         {
-          "label": "Check Your Tax Refund Status",
+          "label": "Refund Tracker",
           "url": "/resources-new/refund-tracker"
         }
       ]

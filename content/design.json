@@ -1,26 +1,33 @@
 {
   "typography": {
-    "headingFont": "Plus Jakarta Sans",
-    "bodyFont": "Plus Jakarta Sans",
-    "googleFontsUrl": "https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;700&family=Fraunces:wght@400;500;700&display=swap",
+    "headingFont": "Manrope",
+    "bodyFont": "Inter",
+    "googleFontsUrl": "https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;700&family=Inter:wght@400;500;700&family=Fraunces:wght@400;500;700&display=swap",
     "accentFont": "Fraunces"
   },
   "roundness": "soft",
-  "density": "balanced",
+  "density": "airy",
   "visualFeel": "modern",
   "spacing": {
     "xs": "4px",
     "sm": "8px",
     "md": "16px",
-    "lg": "24px",
-    "xl": "48px",
-    "2xl": "96px"
+    "lg": "28px",
+    "xl": "56px",
+    "2xl": "112px"
   },
   "radius": {
     "none": "0px",
     "sm": "4px",
     "md": "8px",
-    "lg": "16px",
-    "pill": "8px"
+    "lg": "14px",
+    "pill": "999px"
+  },
+  "darkSections": true,
+  "style": {
+    "sectionRhythm": "generous",
+    "cards": "elevated",
+    "buttons": "bold",
+    "heroScale": "dramatic"
   }
 }

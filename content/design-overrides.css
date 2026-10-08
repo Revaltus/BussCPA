@@ -1,14 +1,158 @@
-/* design-overrides.css — per-client CSS authored or refined by Claude.ai Design.
- *
- * This file is loaded AFTER src/styles/theme.css, so any rules here override
- * the default block styling. Target blocks via the data-block attribute:
- *
- *   [data-block="hero"] { ... }
- *   [data-block="feature-grid"] h2 { ... }
- *
- * Cascade order: tailwindcss → theme.css → design-overrides.css. Use specific
- * selectors (data-block attribute + descendant) instead of !important.
- *
- * To regenerate: run `npm run export-brief`, paste the brief into Claude.ai
- * Design, save the returned CSS as this file, then `npm run dev`.
- */
+/* design-overrides.css — managed by the Revaltus Design Studio.
+ * The design-studio region below is regenerated on every apply; edit it through the Studio. */
+
+/* design-studio:begin */
+/* design-studio:global */
+:root {
+    --c5-media-grade-opacity: 0.3;
+    --c5-media-grade-fill: linear-gradient(150deg, var(--color-primary) 0%, var(--color-complementary) 140%)
+
+}
+[data-block="content-split"] h2, [data-block="content-prose"] h2, [data-block="faq-accordion"] h2, [data-block="intro-text"] h2, [data-block="service-cards"] h2, [data-block="feature-grid"] h2, [data-block="testimonials"] h2, [data-block="process-steps"] h2, [data-block="team-grid"] h2, [data-block="cta-banner"] h2, [data-block="page-header"] h1 {
+    font-weight: 400
+}
+[data-block="service-cards"] h3, [data-block="feature-grid"] h3, [data-block="content-cards"] h3 {
+    font-weight: 500
+}
+[data-component="footer"] {
+    border-top: 4px solid var(--color-complementary)
+}
+[data-component="contact-drawer"] {
+    box-shadow: 0 10px 24px -8px var(--color-primary)
+}
+/* /design-studio:global */
+/* design-studio:hero */
+[data-block="hero"] {
+    background: var(--color-primary);
+    color: var(--color-near-white);
+    box-shadow: 0 0 0 100vmax var(--color-primary);
+    clip-path: inset(0 -100vmax)
+}
+[data-block="hero"]::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 55%;
+    height: 100%;
+    background: repeating-linear-gradient(115deg, var(--color-complementary) 0 1px, transparent 1px 20px);
+    opacity: 0.28;
+    mask-image: linear-gradient(to left, var(--color-near-black), transparent);
+    pointer-events: none
+}
+[data-block="hero"]::after {
+    content: "";
+    position: absolute;
+    left: 1rem;
+    bottom: 1.5rem;
+    width: 7rem;
+    height: 5rem;
+    background-image: radial-gradient(var(--color-complementary) 1.5px, transparent 1.6px);
+    background-size: 14px 14px;
+    opacity: 0.4
+}
+[data-block="hero"] > div {
+    position: relative;
+    z-index: 1
+}
+[data-block="hero"] h1 {
+    color: var(--color-near-white);
+    font-weight: 300
+}
+[data-block="hero"] .font-accent {
+    color: var(--color-complementary)
+}
+[data-block="hero"] p {
+    color: var(--color-secondary)
+}
+[data-block="hero"] .t-kicker {
+    color: var(--color-action-on-primary)
+}
+[data-block="hero"] .t-kicker::before {
+    content: "";
+    display: inline-block;
+    width: 2.5rem;
+    height: 2px;
+    margin-right: 0.75rem;
+    background: var(--color-action)
+}
+[data-block="hero"] .u-frame {
+    border-radius: var(--radius-lg);
+    box-shadow: 12px 12px 0 0 var(--color-complementary)
+}
+/* /design-studio:hero */
+/* design-studio:content-split */
+[data-block="content-split"] {
+    background: var(--color-secondary);
+    box-shadow: 0 0 0 100vmax var(--color-secondary);
+    clip-path: inset(0 -100vmax)
+}
+[data-block="content-split"] .grid > div:first-child > div:first-child {
+    width: 3.5rem;
+    height: 4px;
+    border-radius: var(--radius-pill);
+    background: var(--color-action)
+}
+[data-block="content-split"] h2 {
+    color: var(--color-primary);
+    font-weight: 300
+}
+[data-block="content-split"] li a {
+    font-weight: 600;
+    text-decoration: underline;
+    text-decoration-color: var(--color-complementary);
+    text-decoration-thickness: 2px;
+    text-underline-offset: 4px
+}
+[data-block="content-split"] .u-frame {
+    border-radius: var(--radius-lg);
+    box-shadow: -14px 14px 0 0 var(--color-complementary)
+}
+@media (max-width: 768px) {
+    [data-block="content-split"] .u-frame {
+        box-shadow: -8px 8px 0 0 var(--color-complementary)
+    }
+}
+/* /design-studio:content-split */
+/* design-studio:industry-cards */
+[data-block="industry-cards"] {
+    position: relative;
+    overflow: hidden
+}
+[data-block="industry-cards"]::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 60%;
+    height: 100%;
+    background: repeating-radial-gradient(circle at 100% 0, transparent 0 28px, var(--color-complementary) 28px 29px);
+    opacity: 0.22;
+    mask-image: linear-gradient(to bottom left, var(--color-near-black), transparent);
+    pointer-events: none;
+    z-index: 0
+}
+[data-block="industry-cards"] > div {
+    position: relative;
+    z-index: 1
+}
+[data-block="industry-cards"] h2 {
+    font-weight: 300
+}
+[data-block="industry-cards"] h3 {
+    font-weight: 500
+}
+[data-block="industry-cards"] .border-t {
+    border-top-width: 2px;
+    border-top-color: var(--color-complementary)
+}
+[data-block="industry-cards"] .font-accent {
+    color: var(--color-complementary);
+    font-size: 2.75rem;
+    line-height: 1
+}
+[data-block="industry-cards"] p {
+    color: var(--color-secondary)
+}
+/* /design-studio:industry-cards */
+/* design-studio:end */

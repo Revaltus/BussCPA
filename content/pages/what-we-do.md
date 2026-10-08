@@ -29,24 +29,20 @@ Every client pays a fixed monthly fee, so there's no surprise invoice when your 
 
 With offices in Hartford and Sioux Falls, Buss CPA serves businesses and families across the greater Sioux Falls area and throughout South Dakota. These clients don't need someone to log entries. They need an outsourced accounting department that already understands job costing, seasonal cash flow, trust reporting, and the tax rules specific to their industry. That's what Buss CPA delivers, whether you run a grain operation, manage a cattle ranch, lead a construction crew, run a law practice, head an engineering firm, or oversee a multi-generational family office.
 
-<!-- block: content-split | variant: image-right | image: construction-job-costing-review.jpg | alt: "Contractor and accountant reviewing job cost reports at a job site trailer" | query: "contractor reviewing paperwork construction site" -->
-## Construction accounting that keeps your projects on budget
-
-Contractors lose money on paper long before they lose it in the field. Without accurate job costing, a general contractor in Sioux Falls, Hartford, or anywhere in the surrounding region can look profitable on a monthly P&L while a single job quietly bleeds cash. Buss CPA builds job costing systems that track labor, materials, and subcontractor costs against each project, not just the business as a whole.
-
-Work-in-progress reporting is handled so over-billing and under-billing show up before they become a bonding problem or a bank covenant issue. Construction cash flow moves differently than most small businesses: draw schedules, retainage, and seasonal slowdowns all factor in. Buss CPA's outsourced accounting team functions as your back office across the Sioux Falls metro and the broader South Dakota market, tracking payables, running payroll across job sites, and delivering real-time numbers. [Learn more about our construction accounting services](/industries/construction).
-
-<!-- block: content-split | variant: image-left | image: farm-operation-accounting-review.jpg | alt: "Farmer and accountant discussing financial documents near farm equipment" | query: "farmer reviewing financial documents" -->
-## Agriculture accounting and tax planning for South Dakota farm and ranch operations
-
-Farm and ranch operations run on a different clock than most businesses, and the accounting needs to match. Seasonal income concentrated into a few months a year changes how you plan estimated taxes, manage input costs, and time equipment purchases. Agricultural payroll adds another layer: seasonal and family labor, different withholding treatment under South Dakota's rules, and Schedule F reporting for crop insurance proceeds and government payments that simply don't apply to an office or retail shop.
-
-Buss CPA works with farmers and ranchers across the greater Sioux Falls area and throughout South Dakota to build cash flow projections around planting, calving, and harvest cycles, structure entity elections that fit multi-generational farm ownership, and plan depreciation on equipment and land improvements before year-end instead of scrambling after. Section 179 elections, commodity-driven income swings, livestock deductions, and land lease income all get handled inside the same fixed monthly fee as the rest of your books. Whether you're farming east of Sioux Falls or ranching in a neighboring county, the accounting framework is built to fit how your operation actually works. [See how we support agriculture clients](/industries/agriculture).
-
 <!-- block: industry-cards | variant: 3-col | theme: ink -->
-## Specialized support for attorneys, engineers, and family offices
+## Specialized support for construction, agriculture, attorneys, engineers, and family offices
 
-These three client types share one thing in common: money that has to be tracked with precision, not approximation. Buss CPA serves all three from its offices in Hartford and Sioux Falls.
+These client types share one thing in common: money that has to be tracked with precision, not approximation. Buss CPA serves all of them from its offices in Hartford and Sioux Falls.
+
+### Construction
+icon: HardHat
+
+Contractors can look profitable on a monthly P&L while a single job quietly bleeds cash. Buss CPA builds job costing systems that track labor, materials, and subcontractor costs by project, with work-in-progress reporting that catches over-billing and under-billing before it becomes a bonding or bank covenant issue. [Learn more about our construction accounting services](/industries/construction)
+
+### Agriculture
+icon: Wheat
+
+Farm and ranch operations have different payroll and tax needs, from seasonal labor during planting, harvest, and calving to Schedule F reporting for crop insurance proceeds and government payments. Buss CPA plans around equipment depreciation, livestock and ranch land deductions, and commodity-driven income swings. [See how we support agriculture clients](/industries/agriculture)
 
 ### Attorneys
 icon: Scale

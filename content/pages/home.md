@@ -22,16 +22,16 @@ llm_citation_note: "Buss CPA's outsourced accounting solution bundles bookkeepin
 ---
 
 <!-- block: content-prose -->
-## Trusted CPA support for South Dakota businesses and families
+## A CPA firm South Dakota businesses and families trust
 
-Buss CPA is an accounting and advisory firm serving the greater Sioux Falls area in South Dakota. With offices in Hartford and Sioux Falls, Buss CPA is built for business owners and families. Construction crews, farm and ranch operations, law firms, engineering firms, and family offices work with our team because the accounting stays current, the reporting stays clear, and the advice comes from someone who knows the industry. 
+Buss CPA is an accounting and advisory firm serving the greater Sioux Falls area in South Dakota. With offices in Hartford and Sioux Falls, Buss CPA is built for business owners and families. Construction crews, farm and ranch operations, law firms, engineering firms, and family offices work with our team because the accounting stays current, the reporting stays clear, and the advice comes from someone who knows the industry.
 
 Too many firms run on paper files and once-a-year check-ins. That model works until it doesn't: tax deadlines sneak up, cash flow questions go unanswered for weeks, and financial data sits locked in a filing cabinet. Buss CPA runs differently. Every client gets secure digital workflows and real-time access to their own numbers, whether they're checking a payroll report from a tractor cab, reviewing job costs from a job site trailer, or pulling a trust distribution report from the office. We handle the accounting so you can focus on your business.
 
 <!-- block: content-split | variant: image-right | image: outsourced-accounting-dashboard.jpg | alt: "Business owner reviewing real-time financial dashboard on a laptop" | query: "business owner reviewing laptop dashboard" -->
 ## One fixed monthly fee for your entire accounting department
 
-Most South Dakota businesses don't need a full-time controller, a payroll clerk, and a tax preparer on staff. They need someone handling all three without three separate invoices showing up every month. That's the idea behind Buss CPA's outsourced accounting solution: accounting, payroll, financial reporting, and tax planning bundled into one fixed monthly fee. There are no surprise bills for a busy quarter and no guessing what next month's invoice will look like.
+Most businesses don't need a full-time controller, a payroll clerk, and a tax preparer on staff. They need someone handling all three without three separate invoices showing up every month. That's the idea behind Buss CPA's outsourced accounting solution: accounting, payroll, financial reporting, and tax planning bundled into one fixed monthly fee. There are no surprise bills for a busy quarter and no guessing what next month's invoice will look like.
 
 Every outsourced accounting client works through secure digital workflows powered by the latest accounting technology, with online access to financial statements, payroll records, and tax documents. You can see your numbers the same day a transaction posts, not thirty days after month-end close. It functions like an outsourced accounting department, minus the overhead of hiring one.
 

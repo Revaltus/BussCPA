@@ -5,7 +5,7 @@ date: 2026-08-31
 content_type: blog
 author: "James Buss, CPA"
 excerpt: "Long-term care isn't a crisis to react to, it's a cost to plan for years in advance using insurance, VA benefits, and savings. Here's how the pieces fit together."
-image: senior-couple-reviewing-financial-documents.jpg
+image: buss-cpa-long-term-care-planning.png
 image_alt: "Senior couple sitting at a table reviewing financial documents together"
 tags: ["long-term care", "financial planning", "veterans benefits", "retirement planning"]
 meta_title: "Long-Term Care Planning Costs: A CPA's Funding Guide"
@@ -16,6 +16,9 @@ canonical_url: https://busscpa.us/resources/long-term-care-how-you-can-financial
 schema_markup: "FAQPage"
 answer_block: "Long-term care planning costs are best managed by combining three funding sources built over time: long-term care insurance purchased while still insurable, VA Aid and Attendance benefits for eligible veterans and spouses, and a self-funding reserve built into your investment strategy. Waiting until a care need arises limits your options and often forces a costly, rushed decision."
 ---
+
+*By Buss CPA — Accounting, tax and advisory firm in South Dakota, serving clients in Hartford, the Greater Sioux Falls area, and across the United States.*
+
 Imagine a hypothetical farm couple outside Hartford who spend forty years building equity in land and equipment, then get blindsided by a single line item: the cost of a nursing home or assisted living facility for a parent or spouse. Long-term care isn't cheap, and it isn't something Medicare pays for the way most people assume. A private room in a skilled nursing facility commonly runs well over $100,000 a year nationally, and home health aides billed by the hour add up faster than most families expect. The people who handle this well aren't the ones who guessed right. They're the ones who built a funding plan five or ten years before anyone needed it.
 
 That's the shift worth making: long-term care isn't a crisis you react to, it's a financial risk you manage in advance, the same way you'd manage liability exposure or a market downturn. Insurance, veterans benefits, and personal savings each play a different role, and the right mix depends on your age, health, assets, and whether you're running a business or a farm operation alongside your personal finances.

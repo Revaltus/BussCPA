@@ -5,7 +5,7 @@ date: 2026-08-31
 content_type: blog
 author: "James Buss, CPA"
 excerpt: "Recurring subscriptions quietly drain business and family budgets alike. Here's how to audit them, budget for them, and know which ones are actually worth keeping."
-image: subscription-audit-budget-review.jpg
+image: buss-cpa-subscription-creep.png
 image_alt: "Person reviewing recurring subscription charges on a laptop while going through bank statements at a desk"
 tags: ["budgeting", "small business", "personal finance", "advisory"]
 meta_title: "Subscription Creep: How to Audit and Cut It | BussCPA"
@@ -16,6 +16,9 @@ canonical_url: https://busscpa.us/resources/take-back-control-of-subscription-cr
 schema_markup: "FAQPage"
 answer_block: "Subscription creep is the buildup of small recurring charges, both business and personal, that go untracked until they add up to significant monthly cost. Fixing it requires a periodic audit of every recurring charge and treating subscriptions as their own line item in the budget rather than a one-time cleanup."
 ---
+
+*By Buss CPA — Accounting, tax and advisory firm in South Dakota, serving clients in Hartford, the Greater Sioux Falls area, and across the United States.*
+
 Subscription creep sounds like a minor annoyance, the kind of thing you fix in an afternoon with a spreadsheet and a cup of coffee. It isn't. Picture a Hartford, SD construction contractor running three job sites at once, or a family office managing several trusts. For either one, subscription creep could be a slow leak in the budget that adds up to real money by December. Imagine a $49 fleet-tracking add-on here and a $12 document tool there, and three years later the business is paying for six tools nobody remembers signing up for. Treating it like clutter to sort through someday misses the point. Treating it like a budget line item you review on a schedule is what actually stops the bleeding.
 
 ## Subscription creep is a cash-flow problem, not a clutter problem

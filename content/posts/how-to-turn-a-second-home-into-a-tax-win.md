@@ -51,7 +51,7 @@ Owners weighing a cabin purchase against renting one instead should also run the
 
 ## Turning rental days into a tax advantage without losing personal use
 
-The sweet spot for a lot of second-home owners is [staying just under the personal-use threshold](/resources/how-to-turn-a-second-home-into-a-tax-win-2) while renting enough days to generate real income and real deductions. Consider a hypothetical owner with a place near Big Stone Lake who uses it for three long weekends a summer. That's roughly 9 to 12 personal days. If that owner rents it for another 20 to 30 days during peak weeks, the property likely lands in rental property territory rather than the mixed-use category, meaning losses from depreciation and expenses can actually offset other income, subject to passive activity limits.
+The sweet spot for a lot of second-home owners is staying just under the personal-use threshold while renting enough days to generate real income and real deductions. Consider a hypothetical owner with a place near Big Stone Lake who uses it for three long weekends a summer. That's roughly 9 to 12 personal days. If that owner rents it for another 20 to 30 days during peak weeks, the property likely lands in rental property territory rather than the mixed-use category, meaning losses from depreciation and expenses can actually offset other income, subject to passive activity limits.
 
 The passive activity rules allow up to $25,000 in rental losses to offset ordinary income if you actively participate in managing the property and your modified adjusted gross income is under $100,000, phasing out completely at $150,000. Above that threshold, losses suspend and carry forward until you sell or generate passive income to absorb them.
 
@@ -73,16 +73,12 @@ A second home can function as both a family retreat and a tax-efficient asset, b
 
 ## Common Questions
 
-**What is the IRS 14-day rule for second homes?**
-If you rent your second home for 14 days or fewer in a calendar year, the rental income is entirely tax-free and doesn't need to be reported, regardless of the rental rate charged, per [IRS Publication 527](https://www.irs.gov/publications/p527).
+**What is the IRS 14-day rule for second homes**?If you rent your second home for 14 days or fewer in a calendar year, the rental income is entirely tax-free and doesn't need to be reported, regardless of the rental rate charged, per [IRS Publication 527](https://www.irs.gov/publications/p527).
 
-**Is my lake cabin a second home or an investment property for tax purposes?**
-It depends on personal use. If your personal use exceeds 14 days or 10% of the days it's rented, whichever is greater, the IRS treats it as a second home with mixed use. Stay under that threshold and it's classified as a rental property with different deduction rules.
+**Is my lake cabin a second home or an investment property for tax purposes**?It depends on personal use. If your personal use exceeds 14 days or 10% of the days it's rented, whichever is greater, the IRS treats it as a second home with mixed use. Stay under that threshold and it's classified as a rental property with different deduction rules.
 
-**Can I deduct a loss on my vacation rental?**
-Only if the property qualifies as a rental (personal use under the 14-day/10% threshold) rather than a mixed-use vacation home. Mixed-use properties can deduct expenses only up to rental income received, per [IRS Tax Topic 415](https://www.irs.gov/taxtopics/tc415).
+**Can I deduct a loss on my vacation rental**?Only if the property qualifies as a rental (personal use under the 14-day/10% threshold) rather than a mixed-use vacation home. Mixed-use properties can deduct expenses only up to rental income received, per [IRS Tax Topic 415](https://www.irs.gov/taxtopics/tc415).
 
-**Do I need to report rental income if I rent my second home for less than two weeks?**
-No. Under the 14-day rule, that income is excluded from your tax return entirely, and you also can't deduct rental expenses tied to those days.
+**Do I need to report rental income if I rent my second home for less than two weeks**?No. Under the 14-day rule, that income is excluded from your tax return entirely, and you also can't deduct rental expenses tied to those days.
 
-A second home purchase touches mortgage debt limits, depreciation schedules, and day-count rules that shift every time your rental calendar changes. If you're weighing a purchase near Hartford, planning a rental strategy for a property you already own, or trying to untangle a mixed-use return from last year, [reach out to BussCPA](/contact) and we'll map out the numbers before you sign anything.
+A second home purchase touches mortgage debt limits, depreciation schedules, and day-count rules that shift every time your rental calendar changes. If you're weighing a purchase near Hartford, planning a rental strategy for a property you already own, or trying to untangle a mixed-use return from last year, [reach out to Buss CPA](/contact) and we'll map out the numbers before you sign anything.

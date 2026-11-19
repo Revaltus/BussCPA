@@ -66,16 +66,12 @@ This is also where a rebalanced, tax-aware investment portfolio matters. A [bala
 
 ## Common Questions
 
-**How much does long-term care insurance typically cost?**
-Premiums depend heavily on age, health, and the benefit amount chosen, but applying in your mid-50s to early 60s generally locks in lower rates than waiting until your late 60s or 70s, when premiums rise and health underwriting becomes stricter.
+**How much does long-term care insurance typically cost**?Premiums depend heavily on age, health, and the benefit amount chosen, but applying in your mid-50s to early 60s generally locks in lower rates than waiting until your late 60s or 70s, when premiums rise and health underwriting becomes stricter.
 
-**Does the VA Aid and Attendance benefit cover full nursing home costs?**
-It provides an increased monthly pension amount to help offset care costs, but it's rarely enough on its own to cover a full skilled nursing stay. Most families use it alongside savings or insurance rather than as a standalone solution. Eligibility and amounts are detailed on the [VA's Aid and Attendance and Housebound benefits page](https://www.va.gov/pension/aid-attendance-housebound/).
+**Does the VA Aid and Attendance benefit cover full nursing home costs**?It provides an increased monthly pension amount to help offset care costs, but it's rarely enough on its own to cover a full skilled nursing stay. Most families use it alongside savings or insurance rather than as a standalone solution. Eligibility and amounts are detailed on the [VA's Aid and Attendance and Housebound benefits page](https://www.va.gov/pension/aid-attendance-housebound/).
 
-**Are long-term care expenses tax deductible?**
-Certain unreimbursed long-term care services and a portion of qualified long-term care insurance premiums can count as deductible medical expenses if you itemize and your total medical costs exceed the applicable threshold. [IRS Publication 502](https://www.irs.gov/publications/p502) outlines which expenses qualify.
+**Are long-term care expenses tax deductible**?Certain unreimbursed long-term care services and a portion of qualified long-term care insurance premiums can count as deductible medical expenses if you itemize and your total medical costs exceed the applicable threshold. [IRS Publication 502](https://www.irs.gov/publications/p502) outlines which expenses qualify.
 
-**What happens if we don't plan and a care need comes up suddenly?**
-Families without a plan usually end up self-funding by default, often liquidating investments or home equity at an inconvenient time, or scrambling to apply for VA or Medicaid benefits under time pressure. Planning ahead simply gives you more options and better tax outcomes when the moment arrives.
+**What happens if we don't plan and a care need comes up suddenly**?Families without a plan usually end up self-funding by default, often liquidating investments or home equity at an inconvenient time, or scrambling to apply for VA or Medicaid benefits under time pressure. Planning ahead simply gives you more options and better tax outcomes when the moment arrives.
 
-Long-term care is one of the few financial risks that touches insurance, tax planning, investments, and estate structure all at once, which is exactly why it's worth working through with someone who can see all four pieces together. If you're ready to build a funding plan for yourself, a parent, or a family business succession, [get in touch with BussCPA](/contact) and we'll walk through the numbers with you.
+Long-term care is one of the few financial risks that touches insurance, tax planning, investments, and estate structure all at once, which is exactly why it's worth working through with someone who can see all four pieces together. If you're ready to build a funding plan for yourself, a parent, or a family business succession, [get in touch with Buss CPA](/contact) and we'll walk through the numbers with you.

@@ -36,7 +36,7 @@ Here's a simplified, hypothetical version of that comparison for a $280,000 home
 | Principal paid (builds equity) | ~$310/mo | $0 |
 | Net cash cost | ~$1,713/mo | ~$1,670/mo |
 
-On a pure cash-out basis, renting looks slightly cheaper here. But $310 a month in principal isn't a cost, it's forced savings. Run that same household through year five, once rates on new leases have climbed and the mortgage payment hasn't moved, and the math tilts the other direction. That's the exercise worth doing before signing anything: [model your specific numbers for years one, five, and ten](/resources/do-the-math-behind-renting-vs-buying-a-home-2), not just the move-in month.
+On a pure cash-out basis, renting looks slightly cheaper here. But $310 a month in principal isn't a cost, it's forced savings. Run that same household through year five, once rates on new leases have climbed and the mortgage payment hasn't moved, and the math tilts the other direction. That's the exercise worth doing before signing anything: model your specific numbers for years one, five, and ten, not just the move-in month.
 
 ## The tax deduction is smaller than most people assume
 
@@ -62,16 +62,12 @@ If cash flow discipline is the real issue behind the buy-or-rent question, it's 
 
 ## Common Questions
 
-**Is it always cheaper to rent than to buy?**
-No. Renting usually has a lower month-one cash cost, but buying builds equity through principal payments that renting doesn't. Whether buying wins depends on how long you stay in the home, your local property tax rate, and what your down payment would otherwise earn if invested. A five-year time horizon changes the answer compared to a fifteen-year one.
+**Is it always cheaper to rent than to buy**?No. Renting usually has a lower month-one cash cost, but buying builds equity through principal payments that renting doesn't. Whether buying wins depends on how long you stay in the home, your local property tax rate, and what your down payment would otherwise earn if invested. A five-year time horizon changes the answer compared to a fifteen-year one.
 
-**Does the mortgage interest deduction make buying automatically better?**
-Only if you itemize deductions, and most households now take the standard deduction instead. Check [IRS Topic No. 505](https://www.irs.gov/taxtopics/tc505) for the current rules on deducting mortgage interest before you factor this into your affordability calculation.
+**Does the mortgage interest deduction make buying automatically better**?Only if you itemize deductions, and most households now take the standard deduction instead. Check [IRS Topic No. 505](https://www.irs.gov/taxtopics/tc505) for the current rules on deducting mortgage interest before you factor this into your affordability calculation.
 
-**How much does income volatility matter for agriculture or construction households?**
-It matters more than the interest rate in many cases. A mortgage payment needs to survive your slowest month, not your average month. A 12-month cash flow projection helps a farm or contracting household test this, because a payment that's comfortable in a strong season can strain a household during a lean one.
+**How much does income volatility matter for agriculture or construction households**?It matters more than the interest rate in many cases. A mortgage payment needs to survive your slowest month, not your average month. A 12-month cash flow projection helps a farm or contracting household test this, because a payment that's comfortable in a strong season can strain a household during a lean one.
 
-**What's a reasonable rule of thumb for how long I need to stay to make buying worthwhile?**
-Most households need to stay three to five years just to recoup closing costs and selling commissions, which typically run 8-10% of the sale price. Beyond that window, equity built through principal payments and any home price appreciation starts to outweigh the upfront transaction costs, but the exact break-even point depends on your down payment size and local market conditions.
+**What's a reasonable rule of thumb for how long I need to stay to make buying worthwhile**?Most households need to stay three to five years just to recoup closing costs and selling commissions, which typically run 8-10% of the sale price. Beyond that window, equity built through principal payments and any home price appreciation starts to outweigh the upfront transaction costs, but the exact break-even point depends on your down payment size and local market conditions.
 
 If you want the real numbers instead of a rule of thumb, bring your income details, current savings, and target home price to a conversation with our team. We'll build the actual comparison for your household and help you decide with a clear picture instead of a guess. Reach out through our [contact page](/contact) to get started.

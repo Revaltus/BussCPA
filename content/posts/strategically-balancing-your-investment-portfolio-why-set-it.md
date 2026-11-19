@@ -5,7 +5,7 @@ date: 2026-08-31
 content_type: blog
 author: "James Buss, CPA"
 excerpt: "A portfolio you haven't touched in years isn't balanced, it's drifting. Here's how asset allocation, diversification, and tax-smart rebalancing work together to protect real returns."
-image: investment-portfolio-review-meeting.jpg
+image: buss-cpa-balancing-investments.png
 image_alt: "Advisor and client reviewing investment portfolio allocation documents at a desk"
 tags: ["investment planning", "tax strategy", "advisory services"]
 meta_title: "Balanced Investment Portfolio: Why Rebalancing Matters"
@@ -16,6 +16,10 @@ canonical_url: https://busscpa.us/resources/strategically-balancing-your-investm
 schema_markup: "FAQPage"
 answer_block: "A balanced investment portfolio isn't a one-time setup; it requires periodic rebalancing, either on a calendar or when allocations drift beyond a set threshold, to keep risk aligned with your actual goals. Because rebalancing in taxable accounts can trigger capital gains, it should be coordinated with your broader tax situation, not treated as a standalone investment decision."
 ---
+
+
+*By Buss CPA — Accounting, tax and advisory firm in South Dakota, serving clients in Hartford, the Greater Sioux Falls area, and across the United States.*
+
 Imagine a portfolio built five years ago for a hypothetical 45-year-old with a mortgage, two kids, and a growing agriculture operation. It wouldn't fit that same person today. Tax brackets shift, interest rates move, a farm gets sold or expanded, retirement gets closer. Yet plenty of investors set an allocation once, walk away, and assume the market will sort itself out. It won't. Left alone, a portfolio drifts toward whatever asset class had the best run, which usually means it's carrying more risk than the investor ever signed up for.
 
 This matters as much for a hypothetical Hartford, SD construction company owner reinvesting profits as it does for a hypothetical engineer living off a brokerage account in retirement. Money left unmanaged doesn't stay balanced. It stays wherever the market pushes it, and the market doesn't care about your goals.

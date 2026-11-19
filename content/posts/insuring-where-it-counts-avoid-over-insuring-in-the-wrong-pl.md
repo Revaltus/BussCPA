@@ -66,7 +66,7 @@ This is where insurance planning overlaps directly with the kind of net worth an
 
 Over-insuring rarely looks dramatic. Picture a $180-a-month rider on a life policy for a mortgage that was paid off four years ago. Or duplicate coverage between a personal auto policy and a business vehicle policy after a vehicle changed hands. Or a disability policy sized against income from a business that's since been sold or restructured.
 
-Each of these, on its own, seems small. Stacked across a decade, they add up to real money that could have gone toward debt payoff, retirement contributions, or reinvestment in the business. A pattern like this could easily affect a construction or agriculture business, which is why a coverage review belongs in an advisory conversation, the same way you'd flag a [money mindset](/resources/your-money-mindset-is-costing-your-small-business-more-than-2) issue that's quietly draining a business owner's margins.
+Each of these, on its own, seems small. Stacked across a decade, they add up to real money that could have gone toward debt payoff, retirement contributions, or reinvestment in the business. A pattern like this could easily affect a construction or agriculture business, which is why a coverage review belongs in an advisory conversation, the same way you'd flag a money mindset issue that's quietly draining a business owner's margins.
 
 ## A simple framework for an insurance needs analysis
 
@@ -80,16 +80,12 @@ If the answer to that third question is yes, the policy is due for a review rega
 
 ## Common Questions
 
-**How much insurance coverage do you actually need?**
-Enough to cover your largest quantifiable exposure minus what you can reasonably absorb out of pocket. That number comes from your balance sheet and cash flow, not a standard percentage of income or a generic industry checklist.
+**How much insurance coverage do you actually need**?Enough to cover your largest quantifiable exposure minus what you can reasonably absorb out of pocket. That number comes from your balance sheet and cash flow, not a standard percentage of income or a generic industry checklist.
 
-**What types of insurance matter most for financial protection?**
-For most households, that's life insurance tied to an actual income replacement need, disability coverage, and umbrella liability sized to net worth. For businesses, it's general liability, property, and workers' compensation sized to current contract volume or payroll, not the levels set when the policy was first written.
+**What types of insurance matter most for financial protection**?For most households, that's life insurance tied to an actual income replacement need, disability coverage, and umbrella liability sized to net worth. For businesses, it's general liability, property, and workers' compensation sized to current contract volume or payroll, not the levels set when the policy was first written.
 
-**How often should a business insurance coverage checklist be reviewed?**
-At least annually, and immediately after any change in contract size, payroll, equipment value, or business structure. A hypothetical construction contractor whose average job size doubles in a year needs a liability review well before the next scheduled renewal.
+**How often should a business insurance coverage checklist be reviewed**?At least annually, and immediately after any change in contract size, payroll, equipment value, or business structure. A hypothetical construction contractor whose average job size doubles in a year needs a liability review well before the next scheduled renewal.
 
-**Can over-insuring actually hurt a business?**
-Yes, in cash flow terms. Premiums on duplicate or oversized coverage reduce the cash available for debt paydown, equipment purchases, or reinvestment, without adding any real protection once the exposure has shrunk or disappeared.
+**Can over-insuring actually hurt a business**?Yes, in cash flow terms. Premiums on duplicate or oversized coverage reduce the cash available for debt paydown, equipment purchases, or reinvestment, without adding any real protection once the exposure has shrunk or disappeared.
 
-If you're not sure whether your current coverage matches your actual exposure, that's a conversation worth having before your next renewal, not after a claim. [Contact BussCPA](/contact) to get an insurance and risk review folded into your regular tax and advisory planning.
+If you're not sure whether your current coverage matches your actual exposure, that's a conversation worth having before your next renewal, not after a claim. [Contact Buss CPA](/contact) to get an insurance and risk review folded into your regular tax and advisory planning.

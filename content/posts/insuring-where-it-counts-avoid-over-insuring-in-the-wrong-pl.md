@@ -5,7 +5,7 @@ date: 2026-08-31
 content_type: blog
 author: "James Buss, CPA"
 excerpt: "Insurance isn't a checklist of policies to buy. Learn how to calculate how much coverage you actually need based on net worth, cash flow, and real exposure."
-image: farmer-and-contractor-reviewing-documents.jpg
+image: buss-cpa-insurance-coverage.png
 image_alt: "Business owner reviewing financial documents and insurance paperwork at a desk"
 tags: ["Insurance Planning", "Risk Management", "Financial Advisory"]
 meta_title: "How Much Insurance Coverage Do You Need? A CPA's Approach"
@@ -16,6 +16,9 @@ canonical_url: https://busscpa.us/resources/insuring-where-it-counts-avoid-over-
 schema_markup: "FAQPage"
 answer_block: "How much insurance coverage you need depends on your largest quantifiable financial exposure minus what you can afford to absorb out of pocket, calculated from your balance sheet and cash flow rather than a generic percentage or industry checklist. Business coverage should scale with current contract size, payroll, and equipment value, while personal coverage should scale with net worth and outstanding liabilities."
 ---
+
+*By Buss CPA — Accounting, tax and advisory firm in South Dakota, serving clients in Hartford, the Greater Sioux Falls area, and across the United States.*
+
 Most insurance advice comes in the form of a checklist: get life insurance, get disability insurance, get an umbrella policy, get general liability if you own a business. Checklists are easy to write and easy to sell, but they don't answer the question that actually matters. How much insurance coverage do you need? That number isn't found in a brochure. It comes from your balance sheet, your cash flow, and the specific exposures tied to your business or household.
 
 Consider the kinds of situations that come up for construction contractors, agriculture producers, attorneys, engineers, and families with trusts across South Dakota. A hypothetical owner might be underinsured on the one exposure that could wipe out a decade of savings. Another might be paying premiums on policies that duplicate coverage already in place. Both mistakes come from the same root cause: nobody ran the numbers. The examples in this article are illustrative scenarios, not accounts of real clients.

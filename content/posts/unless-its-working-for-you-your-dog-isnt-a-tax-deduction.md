@@ -16,7 +16,7 @@ canonical_url: https://busscpa.us/resources/unless-its-working-for-you-your-dog-
 schema_markup: "FAQPage"
 answer_block: "A pet's food, grooming, and vet bills generally aren't tax deductible, but dogs with a documented working role, such as a guard dog protecting business property, a farm's herding or livestock guardian dog, or a trained service animal for a disability, can qualify under IRS rules in Publication 535 or Publication 502."
 ---
-A client called last spring convinced he'd found a loophole: his Labrador retriever slept in the shop office every night, so surely that made the dog food, vet bills, and grooming a business expense. It doesn't work that way. The IRS has heard every version of this argument, and pet ownership alone has never qualified as a deductible business cost. But that doesn't mean dog-related expenses are always off the table. For a narrow set of taxpayers, mostly business owners with a working animal and a handful of people with documented medical needs, a dog's costs can legitimately reduce a tax bill. The trick is knowing which category you actually fall into.
+Picture a contractor who is convinced he's found a loophole: his Labrador retriever sleeps in the shop office every night, so surely that makes the dog food, vet bills, and grooming a business expense. It doesn't work that way. The IRS has heard every version of this argument, and pet ownership alone has never qualified as a deductible business cost. But that doesn't mean dog-related expenses are always off the table. For a narrow set of taxpayers, mostly business owners with a working animal and a handful of people with documented medical needs, a dog's costs can legitimately reduce a tax bill. The trick is knowing which category you actually fall into.
 
 ## Why your golden retriever isn't a write-off
 
@@ -24,7 +24,7 @@ The default rule is simple: personal expenses aren't deductible, and the IRS tre
 
 ## Guard dogs as a legitimate business expense
 
-Here's where it gets interesting for the construction and agriculture clients we work with most. [IRS Publication 535](https://www.irs.gov/publications/p535) lays out the standard for business expenses: they need to be ordinary and necessary for the trade or business. A guard dog patrolling a fenced equipment yard, a lumberyard, or a construction site with expensive machinery can meet that bar. The dog's food, veterinary care, training, and even a portion of a handler's time can be deducted as a guard dog business expense, provided the animal genuinely works in that role and the business can show it.
+Here's where it gets interesting for construction and agriculture businesses. [IRS Publication 535](https://www.irs.gov/publications/p535) lays out the standard for business expenses: they need to be ordinary and necessary for the trade or business. A guard dog patrolling a fenced equipment yard, a lumberyard, or a construction site with expensive machinery can meet that bar. The dog's food, veterinary care, training, and even a portion of a handler's time can be deducted as a guard dog business expense, provided the animal genuinely works in that role and the business can show it.
 
 The key word is documentation. A dog that lives in the house and occasionally barks at strangers isn't a security system. A dog that's kenneled on-site, trained for that purpose, and covers a location with real theft or vandalism risk has a much stronger case. Breed matters too, in a practical sense. An auditor is going to raise an eyebrow at a teacup poodle guarding a gravel pit and take a Rottweiler or German Shepherd at face value. If your business already leases equipment or vehicles that sit exposed overnight, a working guard dog deduction pairs naturally with the kind of asset-protection thinking we cover in our piece on [lease vs. buy decisions for business vehicles](/resources/auto-leasing-vs-buying-which-makes-more-sense-2).
 
@@ -32,7 +32,7 @@ The key word is documentation. A dog that lives in the house and occasionally ba
 
 Agriculture operations have some of the clearest cases for a legitimate dog-related deduction, because working dogs have an obvious, verifiable job. A livestock guardian dog protecting a flock from coyotes, or a herding dog moving cattle between pastures, is functioning as farm equipment in the eyes of the tax code, not a family pet. Feed, veterinary bills, and training costs tied to that animal's farm role are deductible as ordinary farm business expenses under the same standard in [Publication 535](https://www.irs.gov/publications/p535).
 
-We see this misunderstood often with agriculture clients who also keep a dog in the house. If the animal splits time between guarding the barn and sleeping on the living room couch, only the portion of expenses tied to its working role holds up. Agriculture payroll and expense tracking already looks different from a typical small business, which is part of why we built our outsourced accounting service around industry-specific record-keeping rather than a generic chart of accounts.
+This is easy to get wrong for an agriculture operation that also keeps a dog in the house. If the animal splits time between guarding the barn and sleeping on the living room couch, only the portion of expenses tied to its working role holds up. Agriculture payroll and expense tracking already looks different from a typical small business, which is part of why our outsourced accounting service is built around industry-specific record-keeping rather than a generic chart of accounts.
 
 ## Service animals and the medical expense deduction
 
@@ -42,11 +42,11 @@ This is a real service animal tax deduction, not a workaround. The animal needs 
 
 ## Therapy dogs occupy a gray area
 
-This is where a lot of well-meaning taxpayers get tripped up searching for a therapy dog deduction. The IRS draws a hard line between a service animal, trained to perform specific physical tasks for a person with a disability, and an emotional support or therapy animal, which provides comfort without task-specific training. Emotional support animals generally don't qualify for the medical expense deduction described in Publication 502, even with a letter from a therapist. There's one narrow exception worth knowing: if a therapy dog is used as a documented tool in someone's licensed medical or mental health practice, the practice itself may be able to deduct related costs as an ordinary business expense, the same way it would deduct any other tool used to deliver client services. That's a business deduction for the practice, not a personal deduction for the dog owner.
+This is where a lot of well-meaning taxpayers get tripped up searching for a therapy dog deduction. The IRS draws a hard line between a service animal, trained to perform specific physical tasks for a person with a disability, and an emotional support or therapy animal, which provides comfort without task-specific training. Emotional support animals generally don't qualify for the medical expense deduction described in Publication 502, even with a letter from a therapist. There's one narrow exception worth knowing: if a therapy dog is used as a documented tool in a professional practice, say a hypothetical law firm that brings a trained dog in to help calm clients during difficult meetings, the practice itself may be able to deduct related costs as an ordinary business expense, the same way it would deduct any other tool used to deliver client services. That's a business deduction for the practice, not a personal deduction for the dog owner.
 
 ## Breeding operations and dogs as inventory
 
-For clients running an actual dog breeding business, the tax treatment shifts again. Breeding stock, veterinary care, stud fees, and related costs can be deducted as ordinary business expenses if the operation is run to make a profit, with real records, pricing, and marketing. The IRS applies hobby-loss rules here: without a genuine profit motive and consistent bookkeeping, those "deductions" get reclassified as personal expenses and disallowed, sometimes going back multiple years. A breeding operation that shows losses every year for a decade while the owner also treats the dogs as pets is a classic audit flag.
+For an agricultural operation that runs an actual dog breeding business, the tax treatment shifts again. Breeding stock, veterinary care, stud fees, and related costs can be deducted as ordinary business expenses if the operation is run to make a profit, with real records, pricing, and marketing. The IRS applies hobby-loss rules here: without a genuine profit motive and consistent bookkeeping, those "deductions" get reclassified as personal expenses and disallowed, sometimes going back multiple years. A breeding operation that shows losses every year for a decade while the owner also treats the dogs as pets is a classic audit flag.
 
 ## How to document a working dog deduction
 
@@ -57,7 +57,7 @@ Whichever category applies, the audit risk on dog-related deductions is high bec
 | Guard dog on a job site or yard | Ordinary business expense (Pub 535) | Site photos, training records, incident logs |
 | Herding or livestock guardian dog | Ordinary farm business expense | Vet bills tied to the animal, farm records |
 | Trained service animal for a disability | Medical expense deduction (Pub 502) | Doctor's letter, training certification, itemized receipts |
-| Therapy dog in a licensed practice | Business expense for the practice | Client-use logs, business purpose documentation |
+| Therapy dog in an attorney's practice | Business expense for the practice | Client-use logs, business purpose documentation |
 | Breeding dog in a for-profit operation | Cost of goods sold / business expense | Sales records, pricing, marketing, profit history |
 | Family pet | Not deductible | N/A |
 
@@ -77,4 +77,4 @@ Yes, if the dog genuinely works that role and the company can show it with train
 **Do I need a separate business to deduct a dog breeding operation?**
 You need to run it like one. The IRS applies hobby-loss rules, so consistent record-keeping, pricing, and a real profit motive matter more than the legal structure of the business itself.
 
-If you're running a construction, agriculture, or professional services business with a working dog on the payroll in every sense but the paperwork, it's worth a conversation before your return gets filed rather than after. [Contact us](/contact) and we'll walk through what's deductible, what isn't, and how to document it so it holds up.
+If you run a construction company, farm, engineering firm, or law practice with a working dog on the payroll in every sense but the paperwork, it's worth a conversation before your return gets filed rather than after. [Contact us](/contact) and we'll walk through what's deductible, what isn't, and how to document it so it holds up.

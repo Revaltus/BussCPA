@@ -5,7 +5,7 @@ date: 2026-08-31
 content_type: blog
 author: "James Buss, CPA"
 excerpt: "How the IRS's 14-day rule and personal-use thresholds decide whether your second home is a tax-free retreat or a taxable rental business, and how to plan around it."
-image: lake-cabin-dock-sunset.jpg
+image: buss-cpa-second-home.png
 image_alt: "A lakeside cabin dock at sunset representing a second home used for both personal and rental purposes"
 tags: ["second home taxes", "rental property", "tax planning", "vacation home"]
 meta_title: "Second Home Tax Rules: The IRS 14-Day Rule Explained"
@@ -16,6 +16,9 @@ canonical_url: https://busscpa.us/resources/how-to-turn-a-second-home-into-a-tax
 schema_markup: "FAQPage"
 answer_block: "The IRS taxes a second home based on how many days you use it personally versus rent it out. Rent it 14 days or fewer per year and the income is tax-free; rent it more and personal-use thresholds determine whether it's a mixed-use vacation home with capped deductions or a full rental property eligible for losses and depreciation."
 ---
+
+*By Buss CPA — Accounting, tax and advisory firm in South Dakota, serving clients in Hartford, the Greater Sioux Falls area, and across the United States.*
+
 A cabin on Lake Madison or a place in the Black Hills sounds like a lifestyle upgrade, and it is. But the IRS doesn't see a lifestyle upgrade. It sees a set of days: how many nights you slept there yourself, and how many nights you rented it to someone else. That single ratio decides whether your second home functions as a quiet tax shelter, a fully taxable rental business, or something in between. Get the days wrong and you can lose deductions you didn't know you had, or owe tax on income you thought was free. Get them right, and a property you already wanted becomes a genuinely smart financial move.
 
 ## The 14-day rule most owners never hear about

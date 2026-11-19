@@ -5,7 +5,7 @@ date: 2026-08-31
 content_type: blog
 author: "James Buss, CPA"
 excerpt: "Buying versus renting isn't a lifestyle question, it's a financial statement question. See how to run the real numbers on cost, taxes, and cash flow before you decide."
-image: family-reviewing-home-finances-at-table.jpg
+image: buss-cpa-home-rent-vs-buy.png
 image_alt: "A household reviewing financial documents and a laptop at the kitchen table while comparing home buying costs"
 tags: ["Personal Finance", "Tax Planning", "Homeownership"]
 meta_title: "Buy vs Rent a Home: The Financial Math Explained"
@@ -16,6 +16,9 @@ canonical_url: https://busscpa.us/resources/do-the-math-behind-renting-vs-buying
 schema_markup: "FAQPage"
 answer_block: "Whether buying or renting makes more financial sense depends on how long you'll stay, whether you itemize deductions, what your down payment could otherwise earn invested, and how stable your income is. Running these four numbers through an actual projection, rather than a rule of thumb, gives a clearer answer than gut instinct or market timing."
 ---
+
+*By Buss CPA — Accounting, tax and advisory firm in South Dakota, serving clients in Hartford, the Greater Sioux Falls area, and across the United States.*
+
 Ask five people whether you should buy or rent, and you'll get five answers rooted in feelings: pride of ownership, fear of "throwing money away" on rent, or a bad experience with a leaky basement. None of that belongs in the decision. Buying or renting a home is a financial statement question, and it deserves the same discipline you'd apply to any five- or ten-year commitment on your balance sheet. Households across Hartford and the surrounding area face exactly this question, and the answer almost never comes from a gut feeling. It comes from a spreadsheet.
 
 ## Put the decision on paper before you put in an offer

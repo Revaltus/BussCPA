@@ -43,7 +43,7 @@ Agriculture operations have a wrinkle worth calling out specifically. Payroll an
 
 ## Running a subscription audit that actually works
 
-A subscription audit doesn't require new software or a consultant. [Here's how to run a real audit](/resources/take-back-control-of-subscription-creep-2) and stop the leak for good.
+A subscription audit doesn't require new software or a consultant. Here's how to run a real audit and stop the leak for good.
 
 1. Pull every recurring charge from the last three statements, business and personal accounts separately.
 2. Sort each one into a category: essential, useful but replaceable, duplicate, or unused.
@@ -57,7 +57,7 @@ The unused category is usually the smallest dollar amount and the duplicate cate
 
 A subscription audit run once a year gets stale fast. Recurring expenses deserve their own line in the monthly or quarterly budget, reviewed the same way you'd review payroll or fuel costs. For a business, that means your bookkeeper flags new recurring charges as they hit the books, not six months later during tax prep. For a family office or trust, it means checking statements across every entity against a short list of known subscriptions every quarter.
 
-This kind of discipline connects to a bigger pattern. Owners who avoid looking closely at recurring costs often avoid looking closely at financials generally, and that avoidance compounds. We've written about how [money mindset shapes small business decisions](/resources/your-money-mindset-is-costing-your-small-business-more-than-2) beyond just subscriptions, including underpricing and delayed tax planning. Subscription creep is usually the easiest symptom to fix and the easiest one to ignore.
+This kind of discipline connects to a bigger pattern. Owners who avoid looking closely at recurring costs often avoid looking closely at financials generally, and that avoidance compounds. Subscription creep is usually the easiest symptom to fix and the easiest one to ignore.
 
 ## When cutting a subscription costs more than it saves
 
@@ -65,24 +65,18 @@ Not every recurring charge should be cut just because it's recurring. A construc
 
 This is the same trade-off worth weighing whenever you compare ongoing costs against ownership, like in our breakdown of [leasing versus buying](/resources/auto-leasing-vs-buying-which-makes-more-sense). The question is never just "can I cancel this," it's "what does the ongoing cost actually buy me, and is there a cheaper way to keep that benefit." Sometimes the answer is downgrading a tier instead of canceling outright. Sometimes it's negotiating with the vendor directly, since many will match a competitor's price to keep an account.
 
-## How BussCPA keeps recurring costs visible
+## How Buss CPA keeps recurring costs visible
 
 Subscription creep is easiest to catch when someone is actually looking at the books in real time, not just at tax season. That's the model behind our outsourced accounting solution: a fixed monthly fee, secure digital workflows, and real-time online access to your financial data so recurring charges show up as soon as they hit the account, not three months later as a mystery line item. When you see your numbers the way we see them, a hypothetical $79 software renewal is easy to spot before it becomes a $790 annual surprise.
 
-If you want a sense of what a fixed, predictable accounting cost looks like next to your own recurring software and subscription spend, our [pricing calculator](/pricing-calculator) gives a ballpark figure in a few minutes. For personal financial planning beyond the business ledger, the AICPA's [Personal Financial Planning resources](https://www.aicpa-cima.com/resources/landing/personal-financial-planning) are a solid starting point for individuals and families looking to build the same kind of review habit.
-
 ## Common Questions
 
-**What is subscription creep?**
-Subscription creep is the gradual buildup of recurring charges, personal or business, that accumulate through free trials, price increases, and forgotten renewals until the total monthly cost is much higher than anyone realizes. It grows quietly because each individual charge is small.
+**What is subscription creep**?Subscription creep is the gradual buildup of recurring charges, personal or business, that accumulate through free trials, price increases, and forgotten renewals until the total monthly cost is much higher than anyone realizes. It grows quietly because each individual charge is small.
 
-**How often should a small business review its subscriptions?**
-Quarterly is a reasonable minimum, with a full audit of all recurring charges once a year tied to budget planning. Agriculture operations with seasonal staffing should check payroll and software subscriptions every season, since per-employee pricing tiers often don't adjust automatically.
+**How often should a small business review its subscriptions**?Quarterly is a reasonable minimum, with a full audit of all recurring charges once a year tied to budget planning. Agriculture operations with seasonal staffing should check payroll and software subscriptions every season, since per-employee pricing tiers often don't adjust automatically.
 
-**What's the fastest way to find hidden recurring costs?**
-Pull the last 90 days of bank and credit card statements and sort every recurring charge into essential, replaceable, duplicate, or unused. Duplicate subscriptions, not unused ones, usually account for the largest dollar amount.
+**What's the fastest way to find hidden recurring costs**?Pull the last 90 days of bank and credit card statements and sort every recurring charge into essential, replaceable, duplicate, or unused. Duplicate subscriptions, not unused ones, usually account for the largest dollar amount.
 
-**Can a CPA firm actually help manage subscription costs, or is that just a budgeting task?**
-A CPA reviewing your books in real time can flag new recurring charges as they appear and tell you whether a subscription is helping cash flow or quietly draining it, which is harder to see from inside the day-to-day business. That's part of what an outsourced accounting relationship is built to catch.
+**Can a CPA firm actually help manage subscription costs, or is that just a budgeting task**?A CPA reviewing your books in real time can flag new recurring charges as they appear and tell you whether a subscription is helping cash flow or quietly draining it, which is harder to see from inside the day-to-day business. That's part of what an outsourced accounting relationship is built to catch.
 
-If subscription costs, payroll timing, or recurring expenses in general feel harder to track than they should, [reach out to BussCPA](/contact) and we'll walk through what a real-time view of your numbers actually looks like.
+If subscription costs, payroll timing, or recurring expenses in general feel harder to track than they should, [reach out to Buss CPA](/contact) and we'll walk through what a real-time view of your numbers actually looks like.

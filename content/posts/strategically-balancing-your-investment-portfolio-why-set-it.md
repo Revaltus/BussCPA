@@ -16,9 +16,9 @@ canonical_url: https://busscpa.us/resources/strategically-balancing-your-investm
 schema_markup: "FAQPage"
 answer_block: "A balanced investment portfolio isn't a one-time setup; it requires periodic rebalancing, either on a calendar or when allocations drift beyond a set threshold, to keep risk aligned with your actual goals. Because rebalancing in taxable accounts can trigger capital gains, it should be coordinated with your broader tax situation, not treated as a standalone investment decision."
 ---
-A portfolio built five years ago for a 45-year-old with a mortgage, two kids, and a growing agriculture operation doesn't fit that same person today—[why 'set it and forget it' is costing you returns](/resources/strategically-balancing-your-investment-portfolio-why-set-it-2). Tax brackets shift, interest rates move, a farm gets sold or expanded, retirement gets closer. Yet plenty of investors set an allocation once, walk away, and assume the market will sort itself out. It won't. Left alone, a portfolio drifts toward whatever asset class had the best run, which usually means it's carrying more risk than the investor ever signed up for.
+Imagine a portfolio built five years ago for a hypothetical 45-year-old with a mortgage, two kids, and a growing agriculture operation. It wouldn't fit that same person today. Tax brackets shift, interest rates move, a farm gets sold or expanded, retirement gets closer. Yet plenty of investors set an allocation once, walk away, and assume the market will sort itself out. It won't. Left alone, a portfolio drifts toward whatever asset class had the best run, which usually means it's carrying more risk than the investor ever signed up for.
 
-This matters as much for a Hartford, SD business owner reinvesting profits as it does for a retiree living off a brokerage account. Money left unmanaged doesn't stay balanced. It stays wherever the market pushes it, and the market doesn't care about your goals.
+This matters as much for a hypothetical Hartford, SD construction company owner reinvesting profits as it does for a hypothetical engineer living off a brokerage account in retirement. Money left unmanaged doesn't stay balanced. It stays wherever the market pushes it, and the market doesn't care about your goals.
 
 ## Why drift happens even when you don't touch a thing
 
@@ -32,7 +32,7 @@ A real asset allocation strategy accounts for three things: your time horizon, y
 
 Time horizon is straightforward on paper but gets ignored in practice. Someone five years from retirement carries a different risk tolerance than someone twenty-five years out, even if both started with identical portfolios in their thirties. Risk tolerance investing isn't about how much risk you can stomach emotionally during a good year. It's about how much risk your actual timeline and cash flow needs can absorb during a bad one.
 
-Tax situation is where a lot of individual investors and even some advisors leave money on the table. Rebalancing inside a 401(k) or IRA has no immediate tax consequence. Rebalancing inside a taxable brokerage account can trigger capital gains, and the difference between short-term and long-term rates is real money. A construction company owner with a taxable investment account and a busy season cash crunch needs a rebalancing plan that accounts for both, not one that treats the portfolio in isolation from the tax return.
+Tax situation is where a lot of individual investors and even some advisors leave money on the table. Rebalancing inside a 401(k) or IRA has no immediate tax consequence. Rebalancing inside a taxable brokerage account can trigger capital gains, and the difference between short-term and long-term rates is real money. Consider a hypothetical construction company owner with a taxable investment account and a busy season cash crunch. That owner would need a rebalancing plan that accounts for both, not one that treats the portfolio in isolation from the tax return.
 
 ## What portfolio diversification actually buys you
 
@@ -57,7 +57,7 @@ Either approach beats no plan at all. The AICPA's personal financial planning re
 
 A balanced investment portfolio doesn't live in a vacuum separate from your 1040. Selling appreciated assets to rebalance can push you into a higher capital gains bracket, trigger the net investment income tax, or interact badly with a year where you're also realizing gains from selling farmland, equipment, or a business interest. On the flip side, a down year in the market might be the right moment to harvest losses and offset gains elsewhere.
 
-This is where BussCPA's advisory and personal income tax services connect directly to the rebalancing conversation. We look at your investment account alongside your business return, not after it. A construction contractor selling equipment at a gain, an attorney with a family trust, or an agriculture operation with an unusual income year all need rebalancing decisions that account for what's already happening on the tax side, not a generic once-a-year allocation check.
+This is where BussCPA's advisory and personal income tax services connect directly to the rebalancing conversation. We look at your investment account alongside your business return, not after it. A hypothetical construction contractor selling equipment at a gain, an attorney with a family trust, or an agriculture operation with an unusual income year would all need rebalancing decisions that account for what's already happening on the tax side, not a generic once-a-year allocation check.
 
 If [money mindset is part of what's kept your portfolio on autopilot](/resources/your-money-mindset-is-costing-your-small-business-more-than-2), that's worth addressing directly. Our piece on [how money mindset affects small business decisions](/resources/your-money-mindset-is-costing-your-small-business-more-than) covers some of the same avoidance patterns that show up in investment accounts as much as in business budgets.
 
@@ -65,7 +65,7 @@ If [money mindset is part of what's kept your portfolio on autopilot](/resources
 
 You don't need a dozen accounts or a complicated model to get this right. You need three things: a target allocation that matches your actual timeline, a rebalancing trigger you'll actually follow, and someone reviewing the tax consequences before trades happen, not after.
 
-For business owners, that third piece often gets missed entirely. A construction company that just benefited from a large [cost segregation study](/resources/cost-segregation-studies-are-a-construction-companys-most-ov) may have unusual taxable income timing that changes when and how much to rebalance in a given year. These pieces need to talk to each other.
+For business owners, that third piece often gets missed entirely. Picture a hypothetical construction company that just benefited from a large [cost segregation study](/resources/cost-segregation-studies-are-a-construction-companys-most-ov). It may have unusual taxable income timing that changes when and how much to rebalance in a given year. These pieces need to talk to each other.
 
 ## Common Questions
 

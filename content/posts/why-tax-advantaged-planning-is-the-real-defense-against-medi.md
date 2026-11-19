@@ -33,7 +33,7 @@ Families and business owners in Hartford and the surrounding McCook County area 
 
 Having three to six months of expenses in a savings account matters. It keeps a medical bill from becoming a missed mortgage payment or a maxed-out credit card. But cash sitting in a standard savings account has already been taxed once as income and earns you nothing back when it's spent on a claim. It's a shock absorber, not a strategy.
 
-The difference between a cushion and a plan is whether your dollars are working before, during, and after the expense. That's where [tax-advantaged accounts change the outcome](/resources/why-tax-advantaged-planning-is-the-real-defense-against-medi-2), not just the timing.
+The difference between a cushion and a plan is whether your dollars are working before, during, and after the expense. That's where tax-advantaged accounts change the outcome, not just the timing.
 
 ## Health savings accounts carry three tax advantages, not one
 
@@ -73,22 +73,18 @@ Families and business owners who come out of a medical crisis with their finance
 
 That last point trips up more people than you'd expect. [IRS Publication 502](https://www.irs.gov/publications/p502) has a long list of qualifying expenses that go well beyond doctor visits, including mileage to appointments, certain home modifications, and portions of long-term care insurance premiums. Without organized records, most of that gets left on the table.
 
-This is also where an outsourced accounting relationship pays for itself outside of tax season. Through our outsourced accounting service, we track client financials year-round on a fixed monthly fee, with secure digital access so you can see exactly where you stand at any point, not just in April. For a hypothetical construction company owner or agriculture operation managing seasonal cash flow, that real-time visibility is what makes an HSA contribution decision or a deduction-bunching strategy possible instead of theoretical. You can also get a sense of what that kind of ongoing support costs through our [pricing calculator](/pricing-calculator).
+This is also where an outsourced accounting relationship pays for itself outside of tax season. Through our outsourced accounting service, we track client financials year-round on a fixed monthly fee, with secure digital access so you can see exactly where you stand at any point, not just in April. For a hypothetical construction company owner or agriculture operation managing seasonal cash flow, that real-time visibility is what makes an HSA contribution decision or a deduction-bunching strategy possible instead of theoretical. 
 
 If you're weighing how much of your overall financial picture needs protecting, medical costs are only one piece. It's worth looking at how your [insurance coverage](/resources/insuring-where-it-counts-avoid-over-insuring-in-the-wrong-pl) lines up against your actual risk, and whether your [investment portfolio](/resources/strategically-balancing-your-investment-portfolio-why-set-it-2) is positioned to absorb a large withdrawal without derailing your longer-term goals.
 
 ## Common Questions
 
-**How much should I keep in an emergency fund specifically for medical expenses?**
-There's no single number that works for everyone, but a reasonable starting point is your health plan's out-of-pocket maximum, which for many high-deductible plans runs $5,000 to $9,000 for a family in 2024. If you have an HSA balance that already covers that amount, your cash emergency fund can be smaller and focused on non-medical needs.
+**How much should I keep in an emergency fund specifically for medical expenses**?There's no single number that works for everyone, but a reasonable starting point is your health plan's out-of-pocket maximum, which for many high-deductible plans runs $5,000 to $9,000 for a family in 2024. If you have an HSA balance that already covers that amount, your cash emergency fund can be smaller and focused on non-medical needs.
 
-**Can I use HSA funds for a family member who isn't on my health plan?**
-Yes, as long as the person qualifies as your tax dependent, you can use HSA funds for their qualified medical expenses even if they're covered under a different insurance plan. This is detailed in [IRS Publication 502](https://www.irs.gov/publications/p502) and is relevant for anyone supporting adult children or aging parents, such as a family office managing support for several relatives.
+**Can I use HSA funds for a family member who isn't on my health plan**?Yes, as long as the person qualifies as your tax dependent, you can use HSA funds for their qualified medical expenses even if they're covered under a different insurance plan. This is detailed in [IRS Publication 502](https://www.irs.gov/publications/p502) and is relevant for anyone supporting adult children or aging parents, such as a family office managing support for several relatives.
 
-**Is it better to pay medical bills from an HSA now or save the receipts and reimburse myself later?**
-Both are legal, and the second option can be a useful strategy. If you can afford to pay a medical bill out of pocket today, you can let the HSA funds keep growing tax-free and reimburse yourself years later, as long as you keep the receipt and the expense was incurred after the HSA was opened.
+**Is it better to pay medical bills from an HSA now or save the receipts and reimburse myself later**?Both are legal, and the second option can be a useful strategy. If you can afford to pay a medical bill out of pocket today, you can let the HSA funds keep growing tax-free and reimburse yourself years later, as long as you keep the receipt and the expense was incurred after the HSA was opened.
 
-**Does a medical expense deduction still matter if I don't itemize every year?**
-It only helps in years you itemize, which is why bunching multiple years of elective or predictable medical costs into a single tax year is often the difference between a deduction that clears the 7.5% AGI threshold and one that doesn't.
+**Does a medical expense deduction still matter if I don't itemize every year**?It only helps in years you itemize, which is why bunching multiple years of elective or predictable medical costs into a single tax year is often the difference between a deduction that clears the 7.5% AGI threshold and one that doesn't.
 
-Medical costs are one of the few expenses that hit every household and business owner eventually, regardless of industry or income. If you want a specific plan for how your HSA contributions, deductions, and cash reserves should work together this year, [reach out to BussCPA](/contact) and we'll walk through your numbers.
+Medical costs are one of the few expenses that hit every household and business owner eventually, regardless of industry or income. If you want a specific plan for how your HSA contributions, deductions, and cash reserves should work together this year, [reach out to Buss CPA](/contact) and we'll walk through your numbers.

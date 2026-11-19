@@ -77,4 +77,4 @@ Yes, if the dog genuinely works that role and the company can show it with train
 **Do I need a separate business to deduct a dog breeding operation?**
 You need to run it like one. The IRS applies hobby-loss rules, so consistent record-keeping, pricing, and a real profit motive matter more than the legal structure of the business itself.
 
-If you run a construction company, farm, engineering firm, or law practice with a working dog on the payroll in every sense but the paperwork, it's worth a conversation before your return gets filed rather than after. [Contact us](/contact) and we'll walk through what's deductible, what isn't, and how to document it so it holds up.
+If you run a construction company, farm, or engineering firm with a working dog on the payroll in every sense but the paperwork, it's worth a conversation before your return gets filed rather than after. [Contact us](/contact) and we'll walk through what's deductible, what isn't, and how to document it so it holds up.

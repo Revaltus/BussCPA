@@ -69,19 +69,15 @@ The underlying pattern is consistent: dollars out of pocket are fair game, hours
 
 ## Common Questions
 
-**Can I deduct the value of professional services I donate, like legal or accounting work?**
-No. The IRS does not allow a deduction for the fair market value of your time or professional skill, even if you'd normally charge a client for that same work. Only your unreimbursed out-of-pocket costs tied to the volunteer service may qualify.
+**Can I deduct the value of professional services I donate, like legal or accounting work**?No. The IRS does not allow a deduction for the fair market value of your time or professional skill, even if you'd normally charge a client for that same work. Only your unreimbursed out-of-pocket costs tied to the volunteer service may qualify.
 
-**What's the current charitable mileage rate, and how do I track it?**
-The IRS sets a flat charitable mileage rate each year, separate from the business mileage rate, and it's detailed in [IRS Publication 526](https://www.irs.gov/publications/p526). Track it with a simple log noting the date, organization, purpose, and miles driven for each trip so the deduction holds up if questioned.
+**What's the current charitable mileage rate, and how do I track it**?The IRS sets a flat charitable mileage rate each year, separate from the business mileage rate, and it's detailed in [IRS Publication 526](https://www.irs.gov/publications/p526). Track it with a simple log noting the date, organization, purpose, and miles driven for each trip so the deduction holds up if questioned.
 
-**Do I need a receipt for every volunteer expense I want to deduct?**
-For any single expense of $250 or more, yes, you need written acknowledgment from the organization confirming your service and that you received nothing in return. Below that threshold, your own receipts and mileage logs are typically sufficient.
+**Do I need a receipt for every volunteer expense I want to deduct**?For any single expense of $250 or more, yes, you need written acknowledgment from the organization confirming your service and that you received nothing in return. Below that threshold, your own receipts and mileage logs are typically sufficient.
 
-**Can my small business deduct donated equipment use or employee labor for a nonprofit project?**
-No, the value of donated equipment use or labor isn't deductible, but direct out-of-pocket costs like fuel tied to that donated work generally are. This trips up construction and agriculture clients often, since equipment and crew time are their most common in-kind donations.
+**Can my small business deduct donated equipment use or employee labor for a nonprofit project**?No, the value of donated equipment use or labor isn't deductible, but direct out-of-pocket costs like fuel tied to that donated work generally are. This trips up construction and agriculture clients often, since equipment and crew time are their most common in-kind donations.
 
-If you volunteer regularly, sit on a nonprofit board, or aren't sure whether last year's out-of-pocket costs were ever claimed, [reach out to BussCPA](/contact) and we'll walk through what's deductible before the next filing deadline arrives.
+If you volunteer regularly, sit on a nonprofit board, or aren't sure whether last year's out-of-pocket costs were ever claimed, [reach out to Buss CPA](/contact) and we'll walk through what's deductible before the next filing deadline arrives.
 
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions

@@ -5,7 +5,7 @@ date: 2026-08-31
 content_type: blog
 author: "James Buss, CPA"
 excerpt: "Volunteer time isn't deductible, but the mileage, supplies, and out-of-pocket costs behind it often are. Here's what qualifies and how to document it."
-image: volunteer-loading-donation-boxes-into-car.jpg
+image: buss-cpa-volunteering-time.png
 image_alt: "Volunteer loading donation boxes into a car trunk after a charity event"
 tags: ["tax deductions", "charitable giving", "personal income tax"]
 meta_title: "Tax Deductions for Volunteering: What Actually Qualifies"
@@ -17,6 +17,10 @@ schema_markup: "FAQPage"
 answer_block: "Volunteer time itself is never tax deductible, no matter your profession or hours given, but unreimbursed out-of-pocket costs tied directly to volunteering for a qualified organization, like mileage, required uniforms, and supplies, can be deducted under IRS Publication 526. Expenses of $250 or more need written acknowledgment from the organization to support the deduction."
 faq_block: [{"question":"Can I deduct the value of professional services I donate, like legal or engineering work?","answer":"No. The IRS does not allow a deduction for the fair market value of your time or professional skill, even if an attorney or engineer would normally bill a client for that same work. Only your unreimbursed out-of-pocket costs tied to the volunteer service may qualify."},{"question":"What's the current charitable mileage rate, and how do I track it?","answer":"The IRS sets a flat charitable mileage rate each year, separate from the business mileage rate, and it's detailed in [IRS Publication 526](https://www.irs.gov/publications/p526). Track it with a simple log noting the date, organization, purpose, and miles driven for each trip so the deduction holds up if questioned."},{"question":"Do I need a receipt for every volunteer expense I want to deduct?","answer":"For any single expense of $250 or more, yes, you need written acknowledgment from the organization confirming your service and that you received nothing in return. Below that threshold, your own receipts and mileage logs are typically sufficient."},{"question":"Can my small business deduct donated equipment use or employee labor for a nonprofit project?","answer":"No, the value of donated equipment use or labor isn't deductible, but direct out-of-pocket costs like fuel tied to that donated work generally are. This often comes up for construction and agriculture businesses, since equipment and crew time are their most common in-kind donations."}]
 ---
+
+
+*By Buss CPA — Accounting, tax and advisory firm in South Dakota, serving clients in Hartford, the Greater Sioux Falls area, and across the United States.*
+
 Imagine a Hartford engineer who spends every Saturday coaching youth wrestling and wonders if he can deduct his time. Say he puts in close to 200 hours a season, and by any hourly rate he'd charge a client, that's real money walking out the door. The answer is no. The IRS has never allowed a deduction for the value of volunteer time, no matter the skill involved or the hours logged, but [understanding what the IRS will deduct for volunteering](/resources/your-time-is-priceless-but-the-irs-wont-deduct-it-what-you-c-2) can help you capture missed deductions. But the mileage he drives to tournaments, the uniforms he buys for kids whose families can't afford them, and the entry fees he covers out of pocket? Those can be deductible, and many people who volunteer never claim them.
 
 This mix-up costs taxpayers money every year, mostly because the rules sit in an odd middle ground. Your time is worth nothing to the IRS. Your wallet is worth something, as long as the spending was for a qualified organization and you didn't get anything back for it. Understanding where that line falls is the difference between a bigger refund and a missed deduction you'll never get back.

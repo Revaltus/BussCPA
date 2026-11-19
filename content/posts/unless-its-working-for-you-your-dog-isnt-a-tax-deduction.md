@@ -5,7 +5,7 @@ date: 2026-08-31
 content_type: blog
 author: "James Buss, CPA"
 excerpt: "Pet expenses aren't deductible, but guard dogs, farm working dogs, and trained service animals can be. Here's where the IRS actually draws the line."
-image: guard-dog-construction-site.jpg
+image: buss-cpa-dog-writeoff.png
 image_alt: "A working dog standing watch near farm equipment, illustrating legitimate business dog tax deductions"
 tags: ["Tax Deductions", "Small Business", "Agriculture", "Construction"]
 meta_title: "Dog Care Tax Deduction: What the IRS Actually Allows"
@@ -16,6 +16,9 @@ canonical_url: https://busscpa.us/resources/unless-its-working-for-you-your-dog-
 schema_markup: "FAQPage"
 answer_block: "A pet's food, grooming, and vet bills generally aren't tax deductible, but dogs with a documented working role, such as a guard dog protecting business property, a farm's herding or livestock guardian dog, or a trained service animal for a disability, can qualify under IRS rules in Publication 535 or Publication 502."
 ---
+
+*By Buss CPA — Accounting, tax and advisory firm in South Dakota, serving clients in Hartford, the Greater Sioux Falls area, and across the United States.*
+
 Picture a contractor who is convinced he's found a loophole: his Labrador retriever sleeps in the shop office every night, so surely that makes the dog food, vet bills, and grooming a business expense. It doesn't work that way. The IRS has heard every version of this argument, and pet ownership alone has never qualified as a deductible business cost. But that doesn't mean dog-related expenses are always off the table. For a narrow set of taxpayers, mostly business owners with a working animal and a handful of people with documented medical needs, a dog's costs can legitimately reduce a tax bill. The trick is knowing which category you actually fall into.
 
 ## Why your golden retriever isn't a write-off

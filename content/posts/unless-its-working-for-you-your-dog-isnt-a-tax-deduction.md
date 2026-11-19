@@ -42,7 +42,7 @@ This is a real service animal tax deduction, not a workaround. The animal needs 
 
 ## Therapy dogs occupy a gray area
 
-This is where a lot of well-meaning taxpayers get tripped up searching for a therapy dog deduction. The IRS draws a hard line between a service animal, trained to perform specific physical tasks for a person with a disability, and an emotional support or therapy animal, which provides comfort without task-specific training. Emotional support animals generally don't qualify for the medical expense deduction described in Publication 502, even with a letter from a therapist. There's one narrow exception worth knowing: if a therapy dog is used as a documented tool in a professional practice, say a hypothetical law firm that brings a trained dog in to help calm clients during difficult meetings, the practice itself may be able to deduct related costs as an ordinary business expense, the same way it would deduct any other tool used to deliver client services. That's a business deduction for the practice, not a personal deduction for the dog owner.
+This is where a lot of well-meaning taxpayers get tripped up searching for a therapy dog deduction. The IRS draws a hard line between a service animal, trained to perform specific physical tasks for a person with a disability, and an emotional support or therapy animal, which provides comfort without task-specific training. Emotional support animals generally don't qualify for the medical expense deduction described in Publication 502, even with a letter from a therapist. The same goes for a business setting. Say a hypothetical law firm brings a trained therapy dog into the office to help calm clients during difficult meetings. The dog's food, grooming, and vet bills would not count as an ordinary business expense, because the dog is not a necessary part of delivering legal services. Comfort alone doesn't meet the standard, whether the dog lives at home or works the front desk.
 
 ## Breeding operations and dogs as inventory
 
@@ -57,7 +57,7 @@ Whichever category applies, the audit risk on dog-related deductions is high bec
 | Guard dog on a job site or yard | Ordinary business expense (Pub 535) | Site photos, training records, incident logs |
 | Herding or livestock guardian dog | Ordinary farm business expense | Vet bills tied to the animal, farm records |
 | Trained service animal for a disability | Medical expense deduction (Pub 502) | Doctor's letter, training certification, itemized receipts |
-| Therapy dog in an attorney's practice | Business expense for the practice | Client-use logs, business purpose documentation |
+| Therapy or emotional support dog, at home or in an office | Not deductible | N/A |
 | Breeding dog in a for-profit operation | Cost of goods sold / business expense | Sales records, pricing, marketing, profit history |
 | Family pet | Not deductible | N/A |
 

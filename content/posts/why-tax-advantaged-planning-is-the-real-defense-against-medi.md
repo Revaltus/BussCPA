@@ -5,7 +5,7 @@ date: 2026-08-31
 content_type: blog
 author: "James Buss, CPA"
 excerpt: "An emergency fund only buys time. Learn how HSAs, FSAs, and the medical expense deduction actually reduce the financial damage of a health crisis."
-image: family-reviewing-medical-bills-at-kitchen-table.jpg
+image: buss-cpa-medical-debt.png
 image_alt: "Family reviewing medical bills and financial documents at a kitchen table"
 tags: ["tax planning", "HSA", "personal finance", "medical expenses"]
 meta_title: "How to Plan for Unexpected Medical Expenses | BussCPA"
@@ -16,6 +16,9 @@ canonical_url: https://busscpa.us/resources/why-tax-advantaged-planning-is-the-r
 schema_markup: "FAQPage"
 answer_block: "Planning for unexpected medical expenses means combining a cash emergency fund with tax-advantaged tools: an HSA for triple tax savings on ongoing costs, an FSA for predictable expenses, and the itemized medical deduction for years when unreimbursed costs exceed 7.5% of adjusted gross income."
 ---
+
+*By Buss CPA — Accounting, tax and advisory firm in South Dakota, serving clients in Hartford, the Greater Sioux Falls area, and across the United States.*
+
 A medical crisis rarely announces itself. One week you're running your jobsite or your fields as usual, the next you're staring at an ER bill, a specialist referral, and a stack of paperwork you didn't ask for. The financial hit is not just the bill itself. It's the decisions you make in the weeks after, often under stress, that determine whether the damage is temporary or permanent.
 
 Most financial advice stops at "build an emergency fund." That's incomplete. A savings cushion buys you time, but it doesn't reduce what you owe or change how the IRS treats your medical spending. People who come through a health crisis in the best financial shape are typically the ones who had tax-advantaged tools already in place before they needed them.

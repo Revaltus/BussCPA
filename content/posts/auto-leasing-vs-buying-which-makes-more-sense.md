@@ -5,7 +5,7 @@ date: 2026-08-31
 content_type: blog
 author: "James Buss, CPA"
 excerpt: "Dealership payments don't tell the whole story. Here's how a CPA weighs cash flow, Section 179 depreciation, and driving habits to determine whether leasing or buying actually saves you money."
-image: truck-and-sedan-dealership-lot.jpg
+image: buss-cpa-auto-lease-vs-buy.png
 image_alt: "A pickup truck and sedan parked side by side on a dealership lot, representing the choice between leasing and buying a vehicle"
 tags: ["Personal Income Tax", "Advisory", "Small Business Tax"]
 meta_title: "Lease vs Buy a Car: A CPA's Decision Framework"
@@ -16,6 +16,9 @@ canonical_url: https://busscpa.us/resources/auto-leasing-vs-buying-which-makes-m
 schema_markup: "FAQPage"
 answer_block: "Leasing usually wins for lower mileage drivers who replace vehicles every two to three years and want lower payments, while buying wins for high-mileage users and business owners who can claim Section 179 or bonus depreciation on a qualifying vehicle. The right call depends on your mileage habits, how long you keep vehicles, and your business tax situation, not just the monthly payment."
 ---
+
+*By Buss CPA — Accounting, tax and advisory firm in South Dakota, serving clients in Hartford, the Greater Sioux Falls area, and across the United States.*
+
 A GMC Sierra sitting on a Hartford dealership lot doesn't care whether you lease it or finance it. The salesperson pushing you toward one option over the other usually cares more about moving inventory and hitting a commission target than about your tax return or your cash flow twelve months from now. That's the gap a CPA fills: looking at your specific numbers instead of a payment that sounds good on a Tuesday afternoon test drive.
 
 Whether you're an individual in Minnehaha County replacing a family vehicle or a contractor adding a truck to your fleet, [the lease-versus-buy decision comes down to four things](/resources/auto-leasing-vs-buying-which-makes-more-sense-2): how you use the vehicle, how long you plan to keep it, what your tax situation looks like, and what it does to your monthly cash flow. Get those four right and the decision usually makes itself.

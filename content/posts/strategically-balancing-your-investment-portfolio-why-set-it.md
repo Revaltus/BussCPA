@@ -63,26 +63,20 @@ A balanced investment portfolio doesn't live in a vacuum separate from your 1040
 
 This is where BussCPA's advisory and personal income tax services connect directly to the rebalancing conversation. We look at your investment account alongside your business return, not after it. A hypothetical construction contractor selling equipment at a gain, an attorney with a family trust, or an agriculture operation with an unusual income year would all need rebalancing decisions that account for what's already happening on the tax side, not a generic once-a-year allocation check.
 
-If [money mindset is part of what's kept your portfolio on autopilot](/resources/your-money-mindset-is-costing-your-small-business-more-than-2), that's worth addressing directly. Our piece on [how money mindset affects small business decisions](/resources/your-money-mindset-is-costing-your-small-business-more-than) covers some of the same avoidance patterns that show up in investment accounts as much as in business budgets.
-
 ## A practical starting point
 
 You don't need a dozen accounts or a complicated model to get this right. You need three things: a target allocation that matches your actual timeline, a rebalancing trigger you'll actually follow, and someone reviewing the tax consequences before trades happen, not after.
 
-For business owners, that third piece often gets missed entirely. Picture a hypothetical construction company that just benefited from a large [cost segregation study](/resources/cost-segregation-studies-are-a-construction-companys-most-ov). It may have unusual taxable income timing that changes when and how much to rebalance in a given year. These pieces need to talk to each other.
+For business owners, that third piece often gets missed entirely. Picture a hypothetical construction company that just benefited from a large cost segregation study. It may have unusual taxable income timing that changes when and how much to rebalance in a given year. These pieces need to talk to each other.
 
 ## Common Questions
 
-**How often should I rebalance my investment portfolio?**
-Most advisors recommend rebalancing annually or semi-annually, or whenever an asset class drifts more than 5 percentage points from its target allocation. The right frequency depends on your account type, since taxable accounts require more attention to the tax consequences of each trade than tax-deferred accounts like a 401(k) or IRA.
+**How often should I rebalance my investment portfolio**?Most advisors recommend rebalancing annually or semi-annually, or whenever an asset class drifts more than 5 percentage points from its target allocation. The right frequency depends on your account type, since taxable accounts require more attention to the tax consequences of each trade than tax-deferred accounts like a 401(k) or IRA.
 
-**What's the difference between asset allocation and diversification?**
-Asset allocation is the split between broad categories like stocks, bonds, and cash. Diversification is how spread out your holdings are within and across those categories, so a downturn in one sector or asset class doesn't take down the whole portfolio.
+**What's the difference between asset allocation and diversification**?Asset allocation is the split between broad categories like stocks, bonds, and cash. Diversification is how spread out your holdings are within and across those categories, so a downturn in one sector or asset class doesn't take down the whole portfolio.
 
-**Does rebalancing trigger a tax bill?**
-It can, if you're selling appreciated assets inside a taxable brokerage account. Rebalancing inside a 401(k) or IRA typically has no immediate tax consequence, which is why many investors rebalance tax-deferred accounts more freely than taxable ones.
+**Does rebalancing trigger a tax bill**?It can, if you're selling appreciated assets inside a taxable brokerage account. Rebalancing inside a 401(k) or IRA typically has no immediate tax consequence, which is why many investors rebalance tax-deferred accounts more freely than taxable ones.
 
-**How does my business income affect my investment rebalancing decisions?**
-A large gain or loss from selling business assets, equipment, or farmland can change your tax bracket for the year, which changes the cost of realizing additional gains in your investment portfolio. Coordinating the two means fewer surprises at tax time.
+**How does my business income affect my investment rebalancing decisions**?A large gain or loss from selling business assets, equipment, or farmland can change your tax bracket for the year, which changes the cost of realizing additional gains in your investment portfolio. Coordinating the two means fewer surprises at tax time.
 
-If your portfolio hasn't been reviewed alongside your tax situation in a while, that's worth fixing before the next filing season, not after. [Contact BussCPA](/contact) to talk through your allocation, your risk tolerance, and how your business or farm income fits into the picture.
+If your portfolio hasn't been reviewed alongside your tax situation in a while, that's worth fixing before the next filing season, not after. [Contact Buss CPA](/contact) to talk through your allocation, your risk tolerance, and how your business or farm income fits into the picture.

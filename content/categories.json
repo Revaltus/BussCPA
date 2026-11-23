@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "categories": [
+    {
+      "id": "c-a2408c",
+      "name": "Construction",
+      "slug": "construction"
+    },
+    {
+      "id": "c-3f6169",
+      "name": "Agriculture",
+      "slug": "agriculture"
+    },
+    {
+      "id": "c-fb867b",
+      "name": "Attorneys",
+      "slug": "attorneys"
+    },
+    {
+      "id": "c-ff1292",
+      "name": "Engineers",
+      "slug": "engineers"
+    },
+    {
+      "id": "c-431c50",
+      "name": "Family Offices and Trusts",
+      "slug": "family-offices-and-trusts"
+    }
+  ]
+}

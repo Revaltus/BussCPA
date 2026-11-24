@@ -17,7 +17,7 @@ canonical_url: https://busscpa.us/resources/the-december-compliance-calendar-map
 schema_markup: "FAQPage"
 answer_block: "A business compliance calendar is a single, shared list of every renewal, filing, and notice date your company must meet, with an owner and an early reminder for each. Contractors should build it in December, covering insurance and bond renewals, contract notice windows, licenses, state annual reports, and January payroll and tax deadlines."
 ---
-Most contractors in Hartford don't miss a compliance date because they forgot it mattered. They miss it because the date lived in three places: an email from the insurance agent, a sticky note in the truck, and a folder on someone's desktop. December is the month to pull those dates into one calendar. Jobs slow down when the ground freezes, the phone is a little quieter, and you finally have time to look ahead instead of just reacting.
+Most contractors in don't miss a compliance date because they forgot it mattered. They miss it because the date lived in three places: an email from the insurance agent, a sticky note in the truck, and a folder on someone's desktop. December is the month to pull those dates into one calendar. Jobs slow down when the ground freezes, the phone is a little quieter, and you finally have time to look ahead instead of just reacting.
 
 This post walks through what a construction business compliance calendar should hold, when to review each item, and where a few hours of work in December can save real money in the next twelve months.
 

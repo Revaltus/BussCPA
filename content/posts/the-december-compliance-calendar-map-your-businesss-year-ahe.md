@@ -5,10 +5,10 @@ date: 2026-11-24
 content_type: blog
 author: "James Buss, CPA"
 excerpt: "December is the best time for Hartford business owners to organize insurance renewals, contract terms, license dates, and state filings before January arrives. Here is how to build a calendar that works."
-image: contractor-planning-year-ahead-calendar.jpg
+image: adobestock-2151885684.png
 image_alt: "A business owner reviewing a calendar and documents at a desk in winter"
 tags: ["Compliance", "Year-End Planning"]
-categories: [c-a2408c]
+categories: [c-d48863]
 meta_title: "Business Compliance Calendar for Owners | Buss CPA"
 meta_description: "Build a business compliance calendar: insurance renewals, contract terms, license dates, and state filings. A December guide from a Hartford, SD CPA."
 target_keyword: "business compliance calendar"
@@ -62,8 +62,6 @@ The goal is not to renegotiate everything. It is to know which two or three agre
 ## Confirm licenses, permits, and state filings
 
 A business license renewal checklist has more moving parts than most owners expect, because requirements sit at several levels of government. The SBA's guide to [applying for licenses and permits](https://www.sba.gov/business-guide/launch-your-business/apply-licenses-permits) is a useful overview of the federal, state, and local layers. For day-to-day work, confirm the details directly with each city and county where you pull permits, including Hartford, Sioux Falls, and Dell Rapids, since procedures and renewal timing differ.
-
-![Business permit paperwork on a clipboard at a desk](/content-assets/building-permit-paperwork-clipboard.jpg)
 
 Build your list around these categories:
 

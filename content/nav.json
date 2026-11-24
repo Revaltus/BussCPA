@@ -81,6 +81,10 @@
       ]
     },
     {
+      "label": "Resources",
+      "url": "/resources"
+    },
+    {
       "label": "Contact",
       "url": "/contact"
     }

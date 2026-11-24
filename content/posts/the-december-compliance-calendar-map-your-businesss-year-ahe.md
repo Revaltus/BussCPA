@@ -16,6 +16,7 @@ secondary_keywords: ["annual state report deadlines", "business insurance renewa
 canonical_url: https://busscpa.us/resources/the-december-compliance-calendar-map-your-businesss-year-ahe
 schema_markup: "FAQPage"
 answer_block: "A business compliance calendar is a single, shared list of every renewal, filing, and notice date your company must meet, with an owner and an early reminder for each. Business owners should build it in December, covering insurance renewals, contract notice windows, licenses, state annual reports, and January payroll and tax deadlines."
+faq_block: [{"question":"What should a business compliance calendar include?","answer":"At minimum, include insurance renewals, contract and lease notice windows, license and certification expirations, state annual report dates, and payroll and tax deadlines. For each item, record the date, the responsible person, and an early reminder date. Also track vendor and contractor insurance certificates and W-9 collection."},{"question":"When should I start a business insurance renewal review?","answer":"Begin 60 to 90 days before the renewal date. That gives your agent time to market the policy to other carriers and gives you time to update payroll estimates, equipment schedules, and vehicle lists. December works well for policies that renew in the first quarter."},{"question":"Do South Dakota businesses have to file an annual report?","answer":"LLCs and corporations registered with the South Dakota Secretary of State generally file an annual report each year, due by the first day of the entity's anniversary month. Confirm your exact date in your Secretary of State account, then add it to your calendar with a 30-day reminder."}]
 ---
 Most business owners don't miss a compliance date because they forgot it mattered. They miss it because the date lived in three places: an email from the insurance agent, a sticky note on the monitor, and a folder on someone's desktop. December is the month to pull those dates into one calendar. The year is winding down, the phone is a little quieter, and you finally have time to look ahead instead of just reacting.
 
@@ -128,3 +129,15 @@ LLCs and corporations registered with the South Dakota Secretary of State genera
 ## Start the year with dates you can trust
 
 If you would like help building a compliance calendar around your business, [contact Buss CPA](/contact). We will go through your insurance, contracts, licenses, and filing dates with you and set up a calendar that runs through next December.
+
+<!-- block: faq-accordion -->
+## Frequently Asked Questions
+
+**Q: What should a business compliance calendar include?**
+A: At minimum, include insurance renewals, contract and lease notice windows, license and certification expirations, state annual report dates, and payroll and tax deadlines. For each item, record the date, the responsible person, and an early reminder date. Also track vendor and contractor insurance certificates and W-9 collection.
+
+**Q: When should I start a business insurance renewal review?**
+A: Begin 60 to 90 days before the renewal date. That gives your agent time to market the policy to other carriers and gives you time to update payroll estimates, equipment schedules, and vehicle lists. December works well for policies that renew in the first quarter.
+
+**Q: Do South Dakota businesses have to file an annual report?**
+A: LLCs and corporations registered with the South Dakota Secretary of State generally file an annual report each year, due by the first day of the entity's anniversary month. Confirm your exact date in your Secretary of State account, then add it to your calendar with a 30-day reminder.
